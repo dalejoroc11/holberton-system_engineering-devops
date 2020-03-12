@@ -1,0 +1,5 @@
+[user]
+	email = diegorojas279@hotmail.com.com
+	name = dalejoroc11
+[credential]
+	helper = cache --timeout=99999999
