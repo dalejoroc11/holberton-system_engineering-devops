@@ -1,299 +1,4 @@
 ls
-emacs READMO.md
-emacs README.md
-LS6
-l
-ls
-emacs README.md 
-emacs 0-positive_or_negative.c
-clear
-emacs 0-positive_or_negative.c
-gcc -Wall -pedantic -Werror -Wextra 0-positive_or_negative.c -o 0-positive_or_negative
-betty 0-positive_or_negative
-emacs 0-positive_or_negative.c
-betty 0-positive_or_negative
-gcc -Wall -pedantic -Werror -Wextra 0-positive_or_negative.c -o 0-positive_or_negative
-./0-positive_or_negative 
-emacs 0-positive_or_negative.c
-gcc -Wall -pedantic -Werror -Wextra 0-positive_or_negative.c -o 0-positive_or_negative
-./0-positive_or_negative 
-emacs 0-positive_or_negative.c
-gcc -Wall -pedantic -Werror -Wextra 0-positive_or_negative.c -o 0-positive_or_negative
-./0-positive_or_negative 
-emacs 0-positive_or_negative.c
-betty 0-positive_or_negative
-ls
-emacs 1-last_digit.c
-emacs 0-positive_or_negative.c
-./0-positive_or_negative 
-emacs 1-last_digit.c
-vi 1
-vi 1-last_digit.c
-emacs 1-last_digit.c
-gcc -Wall -pedantic -Werror -Wextra 1-last_digit.c -o 1-last_digit
-emacs 1-last_digit.c
-gcc -Wall -pedantic -Werror -Wextra 1-last_digit.c -o 1-last_digit
-./1-last_digit 
-gcc -Wall -pedantic -Werror -Wextra 1-last_digit.c -o 1-last_digit
-ls
-emacs 1-last_digit.c
-gcc -Wall -pedantic -Werror -Wextra 1-last_digit.c -o 1-last_digit
-./1-last_digit 
-betty 1-last_digit
-emacs 1-last_digit.c
-emacs 2-print_alphabet.c
-betty 1-last_digit
-emacs 2-print_alphabet.c
-betty 2-print_alphabet.c
-emacs 2-print_alphabet.c
-gcc -Wall -pedantic -Werror -Wextra 2-print_alphabet.c -o 2-print_alphabet
-emacs 2-print_alphabet.c
-gcc -Wall -pedantic -Werror -Wextra 2-print_alphabet.c -o 2-print_alphabet
-emacs 2-print_alphabet.c
-gcc -Wall -pedantic -Werror -Wextra 2-print_alphabet.c -o 2-print_alphabet
-emacs 2-print_alphabet.c
-gcc -Wall -pedantic -Werror -Wextra 2-print_alphabet.c -o 2-print_alphabet
-emacs 2-print_alphabet.c
-gcc -Wall -pedantic -Werror -Wextra 2-print_alphabet.c -o 2-print_alphabet
-./2-print_alphabet 
-emacs 2-print_alphabet.c
-betty 1-last_digit
-emacs 1-last_digit.c
-emacs 2-print_alphabet.c
-gcc -Wall -pedantic -Werror -Wextra 2-print_alphabet.c -o 2-print_alphabet
-./2-print_alphabet 
-emacs 3-print_alphabets.c
-emacs 2-print_alphabet.c
-emacs 3-print_alphabets.c
-gcc -Wall -pedantic -Werror -Wextra 3-print_alphabets.c -o 3-print_alphabets
-emacs 3-print_alphabets.c
-gcc -Wall -pedantic -Werror -Wextra 3-print_alphabets.c -o 3-print_alphabets
-./3-print_alphabets 
-betty 3-print_alphabets
-git add README.md 0-positive_or_negative 1-last_digit 2-print_alphabet 3-print_alphabets
-git commit -m "low level prog"
-git push
-betty 3-print_alphabets
-emacs 3-print_alphabets.c
-betty 3-print_alphabets
-betty 3-print_alphabets.c
-emacs 3-print_alphabets.c
-betty 3-print_alphabets.c
-emacs 3-print_alphabets.c
-betty 3-print_alphabets.c
-emacs 3-print_alphabets.c
-ls
-cd holbertonschool-low_level_programming/
-ls
-cd 0x01-variables_if_else_while/
-ls
-emacs 3-print_alphabets
-emacs 3-print_alphabets.c.
-emacs 3-print_alphabets.c
-betty 3-print_alphabets
-betty 3-print_alphabets.c
-emacs 3-print_alphabets.c
-betty 3-print_alphabets.c
-betty 2-print_alphabet.c
-betty 1-last_digit.c
-betty 0-positive_or_negative.c
-emacs 1-last_digit.c
-betty 1-last_digit.c
-emacs 0-positive_or_negative.c
-ls
-clear
-git add 0-positive_or_negative.c 1-last_digit.c 2-print_alphabet.c 3-print_alphabets.c README.md 
-git  commit -m "low prog"
-git push
-emacs 4-print_alphabet.c
-emacs 3-print_alphabets.c
-emacs 4-print_alphabet.c
-emacs 0-positive_or_negative
-emacs 0-positive_or_negative.c
-emacs 4-print_alphabet.c
-mv 4-print_alphabet.c 4-print_alphabt.c
-ls
-betty 4-print_alphabt.c
-emacs 4-print_alphabet.c
-emacs 4-print_alphabt.c
-betty 4-print_alphabt.c
-emacs 4-print_alphabt.c
-betty 4-print_alphabt.c
-gcc -Wall -pedantic -Werror -Wextra 4-print_alphabt.c -o 4-print_alphabt
-./4-print_alphabt 
-emacs 4-print_alphabt.c
-gcc -Wall -pedantic -Werror -Wextra 4-print_alphabt.c -o 4-print_alphabt
-emacs 4-print_alphabt.c
-betty 4-print_alphabt.c
-gcc -Wall -pedantic -Werror -Wextra 4-print_alphabt.c -o 4-print_alphabt
-./4-print_alphabt 
-emacs 
-emacs 5-print_numbers.c
-gcc -Wall -pedantic -Werror -Wextra 5-print_numbers.c -o 5-print_numbers
-betty 5-print_numbers.c
-emacs 5-print_numbers.c
-gcc -Wall -pedantic -Werror -Wextra 5-print_numbers.c -o 5-print_numbers
-betty 5-print_numbers.c
-./5-print_numbers 
-emacs 5-print_numbers.c
-gcc -Wall -pedantic -Werror -Wextra 5-print_numbers.c -o 5-print_numbers
-betty 5-print_numbers.c
-./5-print_numbers 
-emacs 5-print_numbers.c
-betty 5-print_numbers.c
-gcc -Wall -pedantic -Werror -Wextra 5-print_numbers.c -o 5-print_numbers
-./5-print_numbers 
-emacs 5-print_numbers.c
-gcc -Wall -pedantic -Werror -Wextra 5-print_numbers.c -o 5-print_numbers
-emacs 5-print_numbers.c
-gcc -Wall -pedantic -Werror -Wextra 5-print_numbers.c -o 5-print_numbers
-betty 5-print_numbers.c
-./5-print_numbers 
-git add 4-print_alphabt.c 5-print_numbers.c
-git commit -m "low level"
-git push
-betty 4-print_alphabt.c
-emaacs 4-print_alphabt.c
-emacs 4-print_alphabt.c
-betty 4-print_alphabt.c
-emacs 4-print_alphabt.c
-betty 4-print_alphabt.c
-gcc -Wall -pedantic -Werror -Wextra 4-print_alphabt.c -o 4-print_alphabt
-betty 4-print_alphabt.c
-emacs 4-print_alphabt.c
-betty 4-print_alphabt.c
-gcc -Wall -pedantic -Werror -Wextra 4-print_alphabt.c -o 4-print_alphabt
-emacs 4-print_alphabt.c
-gcc -Wall -pedantic -Werror -Wextra 4-print_alphabt.c -o 4-print_alphabt
-emacs 4-print_alphabt.c
-gcc -Wall -pedantic -Werror -Wextra 4-print_alphabt.c -o 4-print_alphabt
-emacs 4-print_alphabt.c
-betty 4-print_alphabt.c
-gcc -Wall -pedantic -Werror -Wextra 4-print_alphabt.c -o 4-print_alphabt
-./4-print_alphabt 
-emacs 4-print_alphabt.c
-gcc -Wall -pedantic -Werror -Wextra 4-print_alphabt.c -o 4-print_alphabt
-betty 4-print_alphabt.c
-./4-print_alphabt 
-emacs 4-print_alphabt.c
-betty 4-print_alphabt.c
-gcc -Wall -pedantic -Werror -Wextra 4-print_alphabt.c -o 4-print_alphabt
-emacs 4-print_alphabt.c
-betty 4-print_alphabt.c
-gcc -Wall -pedantic -Werror -Wextra 4-print_alphabt.c -o 4-print_alphabt
-./4-print_alphabt 
-git add 4-print_alphabt.c 5-print_numbers.c
-git commit -m "low level"
-git push
-emacs 5-print_numbers.c
-emacs 6-print_numberz.c
-gcc -Wall -pedantic -Werror -Wextra 6-print_numberz.c -o 6-print_numberz
-betty 6-print_numberz.c
-emacs 6-print_numberz.c
-betty 6-print_numberz.c
-cd holbertonschool-low_level_programming/
-ls
-cd 0x01-variables_if_else_while/
-ls
-gcc -Wall -pedantic -Werror -Wextra 9-print_comb.c -o 9-print_comb
-./9-print_comb
-emacs 9-print_comb
-emacs 9-print_comb.c
-git add 9-print_comb
-git add 9-print_comb.c
-git commit -m "fix"
-git push
-emacs 9-print_comb.c
-betty 9-print_comb
-betty 9-print_comb.c
-emacs 9-print_comb.c
-gcc -Wall -pedantic -Werror -Wextra 9-print_comb.c -o 9-print_comb
-./9-print_comb
-emacs 9-print_comb.c
-gcc -Wall -pedantic -Werror -Wextra 9-print_comb.c -o 9-print_comb
-./9-print_comb
-betty 9-print_comb.c
-git add 9-print_comb.c
-git commit -m "fix"
-git push
-ls
-emacs 10-print_comb2.c
-emacs 100-print_comb3.c
-emacs 101-print_comb4.c
-emacs 102-print_comb5.c
-gcc -Wall -pedantic -Werror -Wextra 10-print_comb2.c -o 10-print_comb2
-./10-print_comb2 
-emacs 102-print_comb5.c
-emacs 10-print_comb2
-emacs 10-print_comb2.c
-gcc -Wall -pedantic -Werror -Wextra 10-print_comb2.c -o 10-print_comb2
-emacs 10-print_comb2.c
-gcc -Wall -pedantic -Werror -Wextra 10-print_comb2.c -o 10-print_comb2
-./10-print_comb2 
-betty 10-print_comb2
-betty 10-print_comb2.c
-emacs 100-print_comb3.c 
-betty 100-print_comb3.c
-emacs 100-print_comb3.c 
-betty 100-print_comb3.c
-gcc -Wall -pedantic -Werror -Wextra 100-print_comb3.c -o 100-print_comb3
-./100-print_comb3 
-emacs 101-print_comb4.c 
-emacs 100-print_comb3.c 
-emacs 101-print_comb4.c 
-emacs 100-print_comb3.c 
-emacs 101-print_comb4.c 
-gcc -Wall -pedantic -Werror -Wextra 101-print_comb4.c -o 101-print_comb4
-betty 101-print_comb4.c
-./101-print_comb4 
-emacs 102-print_comb5.c 
-betty 102-print_comb5.c
-gcc -Wall -pedantic -Werror -Wextra 102-print_comb5.c -o 102-print_comb5
-./102-print_comb5 
-clear
-git add 10-print_comb2.c 100-print_comb3.c 101-print_comb4.c 102-print_comb5.c
-git commit -m "numbers"
-git push
-emacs 6-print_numberz
-emacs 6-print_numberz.c
-betty 6-print_numberz
-betty 6-print_numberz.c
-emacs 6-print_numberz.c
-gcc -Wall -pedantic -Werror -Wextra 6-print_numberz.c -o 6-print_numberz
-betty 6-print_numberz
-betty 6-print_numberz.c
-./6-print_numberz 
-git add 6-print_numberz.c
-git commit -m "fix"
-git push
-cd
-cd holbertonschool-low_level_programming/
-ñs
-ls
-emacs 0-holberton.c
-betty 0-holberton.c 
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-holberton.c -o 0-holberton
-ls
-mkdir 0x02-functions_nested_loops
-ls
-cd 0x02-functions_nested_loops/
-ls
-cd ..
-ls
-rm 0-holberton.c 0x02-functions_nested_loops/
-emacs 0-holberton.c
-ls
-cd 0x02-functions_nested_loops/
-LS7
-ls
-emacs 0-holberton.c
-betty 0-holberton.c 
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-holberton.c -o 0-holberton
-emacs putchar.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-holberton.c -o 0-holberton
-ls
-rm putchar.c _putchar.c
-ls
 emacs _putchar.c
 ls
 #include <unistd.h>
@@ -1998,3 +1703,298 @@ ls
 exit
 ls
 git pull
+ls
+mkdir testprintf
+cd testprintf/
+ls
+cd
+ls
+cd testprintf/
+touch printf_id.c
+main_id.c
+touch main_id.c
+touch holberton.h
+vim holberton.h 
+i.c
+touch i.c
+vim i.c
+vim 0-print_format_id.c
+ls
+touch 1-print_format_i.c
+rm 0-print_format_id.c 0-print_format_d.c 
+mv 0-print_format_id.c 0-print_format_d.c 
+ls
+touch 0-print_format_d.c
+vim 0-print_format_d.c 
+vim 1-print_format_i.c 
+ls
+rm main_id.c 
+LS
+ls
+rm i.c
+rm printf_id.c 
+ls
+main_i.c
+touch main_i.c
+vim main_i.c 
+touch main_d.c
+vim main_d.c 
+gcc -Wall -Werror -Wextra -pedantic 0-print_format_d.c main_d.c -o d
+gcc -Wall -Werror -Wextra -pedantic 0-print_format_d.c main_d.c holberton.h -o d
+vim holberton.h 
+gcc -Wall -Werror -Wextra -pedantic 0-print_format_d.c main_d.c holberton.h -o d
+touch 0-print_format_d.c
+vim 0-print_format_d.c 
+vim holberton.h 
+gcc -Wall -Werror -Wextra -pedantic 0-print_format_d.c main_d.c holberton.h _putchar.c -o d
+touch _putchar.c
+vim _putchar.c
+gcc -Wall -Werror -Wextra -pedantic 0-print_format_d.c main_d.c holberton.h _putchar.c -o d
+./d
+vim main_d.c 
+gcc -Wall -Werror -Wextra -pedantic 0-print_format_d.c main_d.c holberton.h _putchar.c -o d
+./d
+vim main_i.c 
+gcc -Wall -Werror -Wextra -pedantic 0-print_format_i.c main_i.c holberton.h _putchar.c -o d
+gcc -Wall -Werror -Wextra -pedantic 1-print_format_i.c main_i.c holberton.h _putchar.c -o d
+vim 1-print_format_i.c 
+gcc -Wall -Werror -Wextra -pedantic 1-print_format_i.c main_i.c holberton.h _putchar.c -o d
+vim 1-print_format_i.c 
+gcc -Wall -Werror -Wextra -pedantic 1-print_format_i.c main_i.c holberton.h _putchar.c -o d
+vim 1-print_format_i.c 
+gcc -Wall -Werror -Wextra -pedantic 1-print_format_i.c main_i.c holberton.h _putchar.c -o d
+vim 1-print_format_i.c 
+gcc -Wall -Werror -Wextra -pedantic 1-print_format_i.c main_i.c holberton.h _putchar.c -o d
+vim holberton.h 
+gcc -Wall -Werror -Wextra -pedantic 1-print_format_i.c main_i.c holberton.h _putchar.c -o d
+vim 1-print_format_i.c 
+vim holberton.h 
+vim 1-print_format_i.c 
+vim 0-print_format_d.c 
+vim 1-print_format_i.c 
+gcc -Wall -Werror -Wextra -pedantic 1-print_format_i.c main_i.c holberton.h _putchar.c -o i
+vim holberton.h 
+vim 1-print_format_i.c 
+gcc -Wall -Werror -Wextra -pedantic 1-print_format_i.c 0-print_format_d.c main_i.c holberton.h _putchar.c -o i
+./i
+ls
+gcc -Wall -Werror -Wextra -pedantic 1-print_format_i.c main_i.c holberton.h _putchar.c -o d
+gcc -Wall -Werror -Wextra -pedantic 1-print_format_i.c 0-print_format_d.c main_i.c holberton.h _putchar.c -o i
+./i
+gcc -Wall -Werror -Wextra -pedantic 0-print_format_i.c main_i.c holberton.h _putchar.c -o d
+ls
+gcc -Wall -Werror -Wextra -pedantic 0-print_format_d.c main_d.c holberton.h _putchar.c -o d
+./d
+ls
+2-print_format_s%.c
+touch 2-print_format_s%.c
+vim 2-print_format_s%.c 
+vim main_s.c
+gcc -Wall -Werror -Wextra -pedantic 2-print_format_s%.c main_s.c holberton.h _putchar.c -o s
+vim holberton.h 
+gcc -Wall -Werror -Wextra -pedantic 2-print_format_s%.c main_s.c holberton.h _putchar.c -o s
+vim holberton.h 
+gcc -Wall -Werror -Wextra -pedantic 2-print_format_s%.c main_s.c holberton.h _putchar.c -o s
+./s
+vim main_s.c
+gcc -Wall -Werror -Wextra -pedantic 2-print_format_s%.c main_s.c holberton.h _putchar.c -o s
+./s
+ls
+vim 0-print_format_d.c 
+vim main_d.c 
+vim 1-print_format_i.c
+vim main_i.c
+vim 2-print_format_s%.c 
+vim main_s.c
+cd
+printf
+cd printf
+git pull
+ls
+git branch
+ls
+git branch
+cd *
+git checkout branch_printf_test
+ls
+git branch
+cd master
+ls
+git pull
+git branch --merged
+pull request
+new pull request
+git pull request
+l
+ls
+git branch
+git clone https://github.com/dalejoroc11/printf.git
+ls
+rm printf
+ls
+rm -rf printf
+ls
+cd
+git clone https://github.com/dalejoroc11/printf.git
+rm -rf printf/
+ls
+git clone https://github.com/dalejoroc11/printf.git
+cd
+cd printf/
+ls
+git branch
+ls
+git pull
+git checkout printf_test
+ls
+vim holberton.h
+git add holberton.h
+git commit -m "new prototypes of functions"
+git push
+ls
+vim _string.c 
+touch _num.c
+vim _num.c
+vim holberton.h
+vim _num.c
+vim _int.c
+touch _str%.c
+vim _str%.c
+ls
+git add _string.c
+git add _num.c _int.c
+git commit -m "functions"
+git push
+git add _str%.c 
+git commit -m "more functions"
+git push
+ls
+touch man_3_printf
+vim man_3_printf
+git add man_3_printf 
+git commit -m "manual"
+git push
+ls
+vim _str%.c
+git pull
+ls
+touch _porcent.c
+vim _percent.c
+git pull
+vim _percent.c 
+rm _porcent.c
+ls
+vim _percent.c
+git add _percent.c 
+git commit -m "percent fun"
+git push
+vin printf.c 
+vim printf.c 
+git add printf.c 
+git commit -m "add in structure %"
+git push
+vim holberton.h 
+git add holberton.h 
+git commit -m "prototype percent"
+git push
+ls
+vim man_3_printf 
+git add man_3_printf 
+git commit -m "more info manual"
+git push
+ls
+git pull
+ĺs
+ls
+vim README.md
+git pull
+git branch
+git checkout master
+git add README.md
+git commit -m "README"
+git push
+git checkout master
+git pull
+ls
+git branch
+ls
+vim README.md
+ls
+git pull
+npm install editor.md
+man man_3_printf
+man printf
+man ./man_3_printf
+vim man_3_printf 
+git pull
+ls
+vim man_3_printf 
+man ./man_3_printf
+vim man_3_printf .
+man ./man_3_printf
+git add man_3_printf 
+git commit -m "man fix"
+git push
+vim README.md 
+./README.md
+git pull
+ls
+vim man_3_printf 
+git add README.md 
+git commit -m "README"
+git push
+git branch
+git pull
+ls
+vim README.md 
+ls
+git pull
+git add man_3_printf 
+git commit -m "man"
+rm README.md
+ls
+git status
+git checkout -- README.MD
+git checkout -- README.md
+ls
+git status
+git pull
+git branch
+git add man_3_printf 
+git commit -m "manual"
+git push 
+git push origin master
+ls 
+vim README.md
+git status
+rm README.md 
+ls
+git status
+git add man_3_printf 
+git commit -m "man"
+git add README.md
+git status
+git add/rm README.md
+git rm README.md 
+LS
+ls
+git status
+git add man_3_printf 
+git commit -m "manual"
+git push
+git push origin master
+ls
+man ./man_3_printf
+vim man_3_printf 
+git add man_3_printf 
+git commit -m "manual"
+git push
+git branch
+ls
+touch README.md
+vim README.md 
+git add README.md 
+git commit -m "README"
+git push
+man ./man_3_printf
+vim README.md 
