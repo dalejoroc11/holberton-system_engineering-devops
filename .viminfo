@@ -38,18 +38,37 @@
 	;
 
 # File marks:
-'0  1  4  ~/holbertonschool-low_level_programming/0x14-bit_manipulation/101-password
-'1  4  18  ~/holbertonschool-low_level_programming/0x14-bit_manipulation/holberton.h
-'2  1  0  ~/holbertonschool-low_level_programming/0x14-bit_manipulation/100-get_endianness.c
-'3  4  11  ~/holbertonschool-low_level_programming/0x14-bit_manipulation/100-get_endianness.c
-'4  8  31  ~/holbertonschool-low_level_programming/0x14-bit_manipulation/4-clear_bit.c
-'5  15  0  ~/holbertonschool-low_level_programming/0x14-bit_manipulation/4-clear_bit.c
-'6  5  13  ~/holbertonschool-low_level_programming/0x14-bit_manipulation/5-flip_bits.c
-'7  1  0  ~/holbertonschool-low_level_programming/0x14-bit_manipulation/5-f
-'8  18  8  ~/holbertonschool-low_level_programming/0x14-bit_manipulation/4-clear_bit.c
-'9  5  12  ~/holbertonschool-low_level_programming/0x14-bit_manipulation/4-clear_bit.c
+'0  81  0  ~/holbertonschool-low_level_programming/0x15-file_io/3-cp.c
+'1  1  1  ~/holbertonschool-low_level_programming/0x15-file_io/2-append_text_to_file.c
+'2  14  0  ~/holbertonschool-low_level_programming/0x15-file_io/1-create_file.c
+'3  16  0  ~/holbertonschool-low_level_programming/0x15-file_io/1-create_file.c
+'4  18  0  ~/holbertonschool-low_level_programming/0x15-file_io/1-create_file.c
+'5  13  0  ~/holbertonschool-low_level_programming/0x15-file_io/1-create_file.c
+'6  10  0  ~/holbertonschool-low_level_programming/0x15-file_io/1-create_file.c
+'7  1  1  ~/holbertonschool-low_level_programming/0x15-file_io/1-create_file.c
+'8  1  1  ~/holbertonschool-low_level_programming/0x15-file_io/0-read_textfile.c
+'9  7  0  ~/holbertonschool-low_level_programming/0x15-file_io/holberton.h
 
 # Jumplist (newest first):
+-'  81  0  ~/holbertonschool-low_level_programming/0x15-file_io/3-cp.c
+-'  1  0  ~/holbertonschool-low_level_programming/0x15-file_io/3-cp.c
+-'  1  1  ~/holbertonschool-low_level_programming/0x15-file_io/2-append_text_to_file.c
+-'  14  0  ~/holbertonschool-low_level_programming/0x15-file_io/1-create_file.c
+-'  1  0  ~/holbertonschool-low_level_programming/0x15-file_io/1-create_file.c
+-'  16  0  ~/holbertonschool-low_level_programming/0x15-file_io/1-create_file.c
+-'  18  0  ~/holbertonschool-low_level_programming/0x15-file_io/1-create_file.c
+-'  13  0  ~/holbertonschool-low_level_programming/0x15-file_io/1-create_file.c
+-'  10  0  ~/holbertonschool-low_level_programming/0x15-file_io/1-create_file.c
+-'  1  1  ~/holbertonschool-low_level_programming/0x15-file_io/0-read_textfile.c
+-'  7  0  ~/holbertonschool-low_level_programming/0x15-file_io/holberton.h
+-'  1  0  ~/holbertonschool-low_level_programming/0x15-file_io/holberton.h
+-'  1  1  ~/holbertonschool-low_level_programming/0x15-file_io/2-main.c
+-'  1  0  ~/holbertonschool-low_level_programming/0x15-file_io/1-main.c
+-'  1  1  ~/holbertonschool-low_level_programming/0x15-file_io/0-main.c
+-'  17  38  ~/holbertonschool-low_level_programming/0x15-file_io/README.md
+-'  1  0  ~/holbertonschool-low_level_programming/0x15-file_io/README.md
+-'  1  1  ~/holbertonschool-low_level_programming/0x15-file_io/_putchar.c
+-'  8  18  ~/holbertonschool-low_level_programming/0x15-file_io/holberton.h
 -'  1  4  ~/holbertonschool-low_level_programming/0x14-bit_manipulation/101-password
 -'  4  18  ~/holbertonschool-low_level_programming/0x14-bit_manipulation/holberton.h
 -'  1  0  ~/holbertonschool-low_level_programming/0x14-bit_manipulation/holberton.h
@@ -128,26 +147,84 @@
 -'  6  26  ~/holbertonschool-low_level_programming/0x13-more_singly_linked_lists/2-add_nodeint.c
 -'  3  41  ~/holbertonschool-low_level_programming/0x13-more_singly_linked_lists/1-listint_len.c
 -'  10  11  ~/holbertonschool-low_level_programming/0x13-more_singly_linked_lists/1-listint_len.c
--'  8  0  ~/holbertonschool-low_level_programming/0x13-more_singly_linked_lists/1-listint_len.c
--'  17  0  ~/holbertonschool-low_level_programming/0x13-more_singly_linked_lists/0-print_listint.c
--'  2  12  ~/holbertonschool-low_level_programming/0x13-more_singly_linked_lists/lists.h
--'  19  0  ~/holbertonschool-low_level_programming/0x13-more_singly_linked_lists/lists.h
--'  23  5  ~/holbertonschool-low_level_programming/0x13-more_singly_linked_lists/lists.h
--'  16  38  ~/holbertonschool-low_level_programming/0x13-more_singly_linked_lists/README.md
--'  1  0  ~/holbertonschool-low_level_programming/0x13-more_singly_linked_lists/README.md
--'  12  17  ~/holbertonschool-low_level_programming/0x12-singly_linked_lists/0-print_list.c
--'  1  0  ~/holbertonschool-low_level_programming/0x12-singly_linked_lists/0-print_list.c
--'  1  1  ~/holbertonschool-low_level_programming/0x12-singly_linked_lists/101-hello_holberton.asm
--'  1  17  ~/holbertonschool-low_level_programming/0x12-singly_linked_lists/100-first.c
--'  1  7  ~/holbertonschool-low_level_programming/0x12-singly_linked_lists/100-f
--'  17  0  ~/holbertonschool-low_level_programming/0x12-singly_linked_lists/4-free-list.c
--'  1  0  ~/holbertonschool-low_level_programming/0x12-singly_linked_lists/4-free-list.c
--'  4  16  ~/holbertonschool-low_level_programming/0x12-singly_linked_lists/2-add_node.c
--'  1  0  ~/holbertonschool-low_level_programming/0x12-singly_linked_lists/2-add_node.c
--'  1  2  ~/holbertonschool-low_level_programming/0x12-singly_linked_lists/3-add_node_end.c
--'  12  26  ~/holbertonschool-low_level_programming/0x12-singly_linked_lists/2-add_node.c
 
 # History of marks within files (newest to oldest):
+
+> ~/holbertonschool-low_level_programming/0x15-file_io/3-cp.c
+	"	81	0
+	^	81	1
+	.	1	1
+	+	81	0
+	+	1	1
+
+> ~/holbertonschool-low_level_programming/0x15-file_io/2-append_text_to_file.c
+	"	1	1
+	^	1	2
+	.	1	1
+	+	43	0
+	+	1	1
+
+> ~/holbertonschool-low_level_programming/0x15-file_io/1-create_file.c
+	"	14	0
+	^	14	0
+	.	13	0
+	+	36	0
+	+	1	1
+	+	13	0
+	+	15	14
+	+	13	0
+
+> ~/holbertonschool-low_level_programming/0x15-file_io/0-read_textfile.c
+	"	1	1
+	^	1	2
+	.	1	1
+	+	39	0
+	+	1	1
+
+> ~/holbertonschool-low_level_programming/0x15-file_io/holberton.h
+	"	7	0
+	^	7	0
+	.	8	0
+	+	13	5
+	+	12	20
+	+	9	0
+	+	7	0
+	+	6	0
+	+	8	0
+
+> ~/holbertonschool-low_level_programming/0x15-file_io/2-main.c
+	"	1	1
+	^	1	2
+	.	1	1
+	+	22	0
+	+	1	1
+
+> ~/holbertonschool-low_level_programming/0x15-file_io/1-main.c
+	"	1	0
+	^	1	2
+	.	1	1
+	+	22	0
+	+	1	1
+
+> ~/holbertonschool-low_level_programming/0x15-file_io/0-main.c
+	"	1	1
+	^	1	2
+	.	1	1
+	+	24	0
+	+	1	1
+
+> ~/holbertonschool-low_level_programming/0x15-file_io/README.md
+	"	17	38
+	^	19	134
+	.	19	133
+	+	19	133
+
+> ~/holbertonschool-low_level_programming/0x15-file_io/_putchar.c
+	"	1	1
+	^	1	2
+	.	1	1
+	+	13	0
+	+	1	1
 
 > ~/holbertonschool-low_level_programming/0x14-bit_manipulation/101-password
 	"	1	4
@@ -1256,75 +1333,3 @@
 	.	1	1
 	+	13	0
 	+	1	1
-
-> ~/holbertonschool-low_level_programming/0x10-variadic_functions/README.md
-	"	17	38
-	^	17	39
-	.	18	46
-	+	18	46
-
-> ~/holbertonschool-low_level_programming/0x0F-function_pointers/100-main_opcodes.c
-	"	1	1
-	^	1	2
-	.	1	1
-	+	37	0
-	+	1	1
-
-> ~/holbertonschool-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-	"	1	0
-	^	1	19
-	.	1	0
-	+	1	194
-	+	27	0
-	+	1	0
-	+	3	0
-	+	1	0
-
-> ~/holbertonschool-low_level_programming/0x0F-function_pointers/3-op_functions.c
-	"	1	18
-	^	1	19
-	.	1	0
-	+	65	1
-	+	1	1
-	+	1	0
-	+	3	0
-	+	1	0
-
-> ~/holbertonschool-low_level_programming/0x0F-function_pointers/3-calc.h
-	"	6	0
-	^	6	0
-	.	5	18
-	+	23	0
-	+	1	1
-	+	4	19
-	+	5	18
-
-> ~/holbertonschool-low_level_programming/0x0F-function_pointers/3-get
-	"	1	1
-	^	1	2
-	.	1	1
-	+	30	0
-	+	1	1
-
-> ~/holbertonschool-low_level_programming/0x02-functions_nested_loops/101-natural.c
-	"	20	0
-
-> ~/holbertonschool-low_level_programming/0x02-functions_nested_loops/104-fibonacci.c
-	"	48	0
-	^	49	1
-	.	50	0
-	+	49	92
-	+	50	0
-
-> ~/holbertonschool-low_level_programming/0x02-functions_nested_loops/103-fibonacci.c
-	"	31	0
-	^	32	0
-	.	32	0
-	+	32	0
-
-> ~/holbertonschool-low_level_programming/0x02-functions_nested_loops/102-fibonacci.c
-	"	28	0
-	^	28	0
-	.	29	0
-	+	1	99
-	+	29	0
