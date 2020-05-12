@@ -1,1154 +1,3 @@
-ls
-emacs _putchar.c
-ls
-#include <unistd.h>
-/**
-int _putchar(char c)
-{ return (write(1, &c, 1));
-clear
-./0-holberton 
-emacs 0-holberton.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-holberton.c -o 0-holberton
-emacs 0-holberton.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-holberton.c -o 0-holberton
-emacs 0-holberton.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-holberton.c -o 0-holberton
-emacs 0-holberton.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-holberton.c -o 0-holberton
-emacs 0-holberton.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-holberton.c -o 0-holberton
-emacs holberton.h
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-holberton.c -o 0-holberton
-emacs holberton.h
-emacs 0-holberton.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-holberton.c -o 0-holberton
-betty 0-holberton
-betty 0-holberton.c
-emacs 0-holberton.c
-betty 0-holberton.c
-emacs 0-holberton.c
-betty 0-holberton.c
-cd
-ls
-cd holbertonschool-low_level_programming/
-ls
-cd 0x02-functions_nested_loops/
-ls
-cd 3-islower.c
-emacs 3-islower.c
-emacs 4-isalpha.c
-emacs 5-sign.c
-emacs 6-abs.c
-emacs 7-print_last_digit.c
-emacs 8-24_hours.c
-emacs 9-times_table.c
-emacs 10-add.c
-emacs 11-print_to_98.c
-emacs 100-times_table.c
-emacs 101-natural.c
-emacs 102-fibonacci.c
-emacs 103-fibonacci.c
-emacs 104-fibonacci.c
-ls
-emacs 3-islower.c 
-emacs 3-main.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-islower.c -o 3-islower
-emacs 3-islower.c 
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-islower.c -o 3-islower
-./3-islower 
-emacs 3-islower.c 
-emacs 4-isalpha.c 
-cd
-mkdir prueba
-ls
-cd prueba
-emacs borrar
-man rm
-rm --help
-emacs borrar
-chmod u+x borrar
-ls
-emacs borrar
-man rm
-emacs borrar
-man rm 
-emacs borrar
-man rm 
-emacs borrar
-man rm
-emacs borrar
-find man
-man find
-find --help
-emacs borrar
-find --help
-emacs borrar
-find --help
-emacs borrar
-find --help
-emacs borrar
-LS
-ls
-emacs borrar
-find --help
-emacs borrar
-man touch
-emacs comb.c
-gcc comb.c -o a
-emacs comb.c
-gcc comb.c -o a
-./a
-emacs comb.c
-gcc comb.c -o a
-emacs comb.c
-gcc comb.c -o a
-./a
-emacs comb.c
-gcc comb.c -o a
-./a
-emacs comb.c
-gcc comb.c -o a
-./a
-emacs comb.c
-gcc comb.c -o a
-emacs comb.c
-cd
-ls
-cd prueba
-ls
-gcc comb.c -o a
-emacs comb.c
-gcc comb.c -o a
-./a
-emacs comb.c
-gcc comb.c -o a
-emacs comb.c
-gcc comb.c -o a
-./a
-emacs comb.c
-gcc comb.c -o a
-./a
-echo --help
-cat --help
-touch hola
-touch hola1
-emacs hola
-emacs hola1
-cat hola hola1
-emacs cat
-ls
-emacs cat
-chmod u+x cat
-./cat
-emacs cat
-man cat
-cat --help
-emacs cat
-emacs  cat1
-chmod u+x cat1
-./cat1
-emacs  cat1
-ls
-cd
-ls
-rm -rf prueba
-ls
-cd holbertonschool-low_level_programming/
-ls
-emacs c
-rm c
-ld
-ls
-cd 0x02-functions_nested_loops/
-ls
-emacs 0-holberton.c
-emacs hola
-emacs hola.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 0-holberton.c -o 0-holberton
-./0-holberton 
-emacs 0-holberton.c
-ls
-emacs 4-isalpha.c
-emacs 3-
-ls
-emacs 3-islower.c
-emacs 4-isalpha.c
-emacs 3-islower.c
-emacs 4-isalpha.c
-emacs 4-main.c
-emacs 4-isalpha.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-isalpha.c -o 4-isalpha
-./4-isalpha 
-emacs 4-isalpha.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-isalpha.c -o 4-isalpha
-./4-isalpha 
-emacs 4-main.c
-emacs 4-isalpha.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-isalpha.c -o 4-isalpha
-./4-isalpha 
-man isalpha
-emacs 5-sign.c 
-gcc --help
-man pedantic
-pedantic --help
-gcc -help
-gcc --help
-ls
-emacs 5-sign.c
-emacs 5-main.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-sign.c -o 5-sign
-emacs 5-sign.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-sign.c -o 5-sign
-emacs 5-sign.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-sign.c -o 5-sign
-emacs 5-sign.c
-emacs 3-islower.c
-emacs 2-print_alphabet_x10.c
-emacs 5-sign.c
-emacs 0-holberton.c
-emacs 5-sign.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-sign.c -o 5-sign
-./5-sign 
-emacs 5-sign.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-sign.c -o 5-sign
-./5-sign 
-emacs 5-sign.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-sign.c -o 5-sign
-./5-sign 
-emacs 5-sign.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-sign.c -o 5-sign
-emacs 5-sign.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-sign.c -o 5-sign
-./5-sign 
-emacs 5-sign.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-sign.c -o 5-sign
-./5-sign 
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-sign.c -o 5-sign
-./5-sign 
-ls
-cd holbertonschool-low_level_programming/
-ls
-0x02-functions_nested_loops/
-ls
-0x02-functions_nested_loops/
-cd 0x02-functions_nested_loops/
-LS
-ls
-emacs 5-sign.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-sign.c -o 5-sign
-./5-sign 
-emacs holberton.h
-emacs 6-abs.c 
-emacs 7-print_last_digit.c 
-emacs 8-24_hours.c 
-emacs 9-times_table.c 
-emacs 10-add.c 
-emacs 11-print_to_98.c 
-ls
-emacs 100-times_table.c 
-emacs 101-natural.c 
-emacs 102-fibonacci.c 
-emacs 103-fibonacci.c 
-emacs 104-fibonacci.c 
-ls
-emacs 6-abs.c
-man abs
-emacs 6-abs.c
-clear
-ls
-emacs README.md
-betty 0-holberton.c
-betty 1
-betty 1-alphabet.c
-emacs 1-alphabet
-emacs 1-alphabet.c
-betty 1-alphabet.c
-emacs 1-alphabet.c
-betty 1-alphabet.c
-emacs 1-alphabet.c
-betty 1-alphabet.c
-emacs 1-alphabet.c
-betty 1-alphabet.c
-ls
-betty 2-alphabet_x10.c
-emacs 2-alphabet_x10.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 2-main.c 2-print_alphabet_x10.c -o 2-alphabet_x10
-./2-alphabet_x10 
-betty 2-alphabet_x10.c
-./2-alphabet_x10 
-betty 2-alphabet_x10.c
-emacs 2-alphabet_x10.c
-betty 2-alphabet_x10.c
-ls
-betty 3-islower.c
-emacs 3-islower.c
-betty 3-islower.c
-emacs 3-islower.c
-betty 3-islower.c
-emacs 3-islower.c
-betty 3-islower.c
-ls
-betty 4-isalpha.c
-emacs 4-isalpha.c
-betty 4-isalpha.c
-betty 5-sign.c
-emacs 5-sign.c
-betty 5-sign.c
-betty 6-abs.c
-emacs 6-abs.c
-betty 6-abs.c
-emacs 6-abs.c
-betty 6-abs.c
-emacs 6-main.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-abs.c -o 6-abs
-emacs 6-main.c
-betty 6-abs.c
-emacs 6-abs.c
-betty 6-abs.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-abs.c -o 6-abs
-emacs 6-abs.c
-betty 6-abs.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-abs.c -o 6-abs
-./6abs
-./6-abs
-git add README.md 0-holberton.c 1-alphabet.c 2-print_alphabet_x10.c 3-islower.c 4-isalpha.c 5-sign.c 6-abs.c holberton.h
-git commit -m "beggin 0x02 functions"
-git push
-emacs 2-alphabet_x10.c
-cat 2-main.c
-./2-alphabet_x10
-emacs 2-alphabet_x10.c
-betty 2-alphabet_x10.C
-betty 2-alphabet_x10.c
-git add 2-alphabet_x10.c
-git commit -m "beggin 0x02 functions"
-git push
-emacs 2-alphabet_x10.c
-betty 2-alphabet_x10.c
-emacs 2-alphabet_x10.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 2-main.c 2-print_alphabet_x10.c -o 2-alphabet_x10
-./2-alphabet_x10.c
-./2-alphabet_x10
-emacs 2-alphabet_x10.c
-ls
-emacs 2-print_alphabet_x10.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 2-main.c 2-print_alphabet_x10.c -o 2-alphabet_x10
-./2-alphabet_x10 
-git add 2-print_alphabet_x10.c
-git commit -m "beggin 0x02 functions"
-git push
-emacs 2-print_alphabet_x10.c
-betty 2-print_alphabet_x10.c
-emacs 2-print_alphabet_x10.c
-ls7
-ls
-cd holbertonschool-low_level_programming/
-ls
-cd 0x02-functions_nested_loops/
-ls
-emacs 2-print_alphabet_x10.c
-betty 2-print_alphabet_x10.c
-git add 2-print_alphabet_x10.c
-git commit -m "fix 2"
-git push
-ls
-emacs 7-print_last_digit.c
-emacs 7-main.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_last_digit.c -o 7-last_digit
-emacs 7-print_last_digit.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_last_digit.c -o 7-last_digit
-./7-last_digit 
-emacs 7-print_last_digit.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_last_digit.c -o 7-last_digit
-./7-last_digit 
-emacs 7-print_last_digit.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_last_digit.c -o 7-last_digit
-./7-last_digit 
-betty 7-print_last_digit.c
-emacs 7-print_last_digit.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_last_digit.c -o 7-last_digit
-emacs 7-print_last_digit.c
-ls
-emacs 6-abs
-emacs 6-abs.c
-emacs 7-print_last_digit.c
-git add 6-abs.c 7-print_last_digit.c
-git commit -m "las exercises"
-git push
-emacs 8-24_hours.c
-emacs 8-main.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-emacs 8-24_hours.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-emacs 8-24_hours.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-emacs 8-24_hours.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-emacs 8-24_hours.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-./8-24 
-emacs 8-24_hours.c
-emacs 10-add.c
-emacs 10-main.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 10-main.c 10-add.c -o 10-add
-./10-add
-emacs 10-main.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 10-main.c 10-add.c -o 10-add
-./10-add
-git add 10-add.c
-git commit -m "add two numbers"
-git push
-./10-add
-emacs 11-print_to_98.c
-emacs 11-main.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 11-main.c 11-print_to_98.c -o 11-98
-emacs 11-main.c
-emacs 11-print_to_98.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 11-main.c 11-print_to_98.c -o 11-98
-./11-98
-cd
-ls
-/11-98
-cd holbertonschool-low_level_programming/
-ls
-cd 0x03-debugging/
-ls
-emacs 1-main.c
-betty 1-main.c
-emacs 1-main.c
-betty 1-main.c
-gcc 1-main.c -o 1-main
-./1-main
-wc -l 1-main.c
-git add 1-main.c
-git commit -m "fix"
-git push
-betty 1-main.c
-emacs 1-main.c
-betty 1-main.c
-wc -l 1-main.c
-emacs 1-main.c
-betty 1-main.c
-emacs 1-main.c
-betty 1-main.c
-emacs 1-main.c
-wc -l 1-main.c
-gcc 1-main.c -o 1-main
-./1-main
-wc -l 1-main.c
-betty 1-main.c
-emacs 1-main.c
-betty 1-main.c
-emacs 1-main.c
-betty 1-main.c
-emacs 1-main.c
-betty 1-main.c
-wc -l 1-main.c
-gcc 1-main.c -o 1-main
-./1-main
-git add 1-main.c
-git commit -m "fix"
-git push
-emacs 2-largest_number.c
-emacs 2-main.c
-betty 2-main.c 
-emacs 2-main.c
-betty 2-main.c 
-betty 2-largest_number.c 
-emacs  2-largest_number.c 
-betty 2-largest_number.c
-gcc -Wall -Werror -Wextra -pedantic 2-largest_number.c 2-main.c -o 2-main
-emacs 2-main.c
-gcc -Wall -Werror -Wextra -pedantic 2-largest_number.c 2-main.c -o 2-main
-emacs  2-largest_number.c 
-emacs 2-main.c
-gcc -Wall -Werror -Wextra -pedantic 2-largest_number.c 2-main.c -o 2-main
-emacs 2-main.c
-emacs 2-largest_number.c
-gcc -Wall -Werror -Wextra -pedantic 2-largest_number.c 2-main.c -o 2-main
-emacs 2-main.c
-emacs 2-largest_number.c
-emacs holberton.h 
-gcc -Wall -Werror -Wextra -pedantic 2-largest_number.c 2-main.c -o 2-main
-./2-main
-git add 2-largest_number.c 2-main 2-main.c
-git commit -m "largest number"
-git push
-betty 2-largest_number.c
-git add 2-largest_number.c 2-main 2-main.c holberton.h 
-git commit -m "largest number"
-git push
-emacs 3-print_remaining_days.c
-emacs holberton.h 
-emacs 3-convert_day.c
-emacs 3-print_remaining_days.c
-emacs 3-main_a.c
-emacs 3-main_b.c
-ls
-cd ..
-ls
-cd 0x02-functions_nested_loops/
-ls
-emacs 8-24.c
-emacs 8-24_hours.c
-emacs 8-main.c
-betty 8-24_hours.c
-emacs 8-24_hours.c
-betty 8-24_hours.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-
-./8-24 | tail
-emacs 8-24_hours.c
-./8-24
-ls
-git add 8-24_hours.c
-git commit -m "hours"
-git push
-./8-24 | wc -l
-emacs 8-24_hours.c
-./8-24
-emacs 8-24_hours.c
-./8-24
-./8-24 wc -l
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-./8-24
-emacs 8-24_hours.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-./8-24
-./8-24 wc -l
-./8-24 | wc -l
-emacs 8-24_hours.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-emacs 8-24_hours.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-./8-24
-./8-24 | wc -l
-emacs 8-24_hours.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-./8-24 | wc -l
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-./8-24
-./8-24 | wc -l
-emacs 8-24_hours.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-./8-24
-./8-24 | wc -l
-emacs 8-24_hours.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-emacs 8-24_hours.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-./8-24
-./8-24 | wc -l
-emacs 8-24_hours.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-./8-24
-./8-24 | wc -l
-emacs 8-24_hours.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-emacs 8-24_hours.c
-cd holbertonschool-low_level_programming/
-ls
-cd 0x02-functions_nested_loops/
-ls
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-./8-24
-emacs 8-24.c
-ls
-emacs 8-24_hours.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-./8-24
-./8-24 | wc -l
-emacs 8-24_hours.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-emacs 8-24_hours.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-./8-24 | wc -l
-./8-24
-./8-24 | wc -l
-emacs 8-24_hours.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-./8-24
-emacs 8-24_hours.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-./8-24
-./8-24 | head
-./8-24 | wc -l
-emacs 8-24_hours.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-emacs 8-24_hours.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-./8-24
-emacs 8-24_hours.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-emacs 8-24_hours.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-./8-24
-./8-24 | wc -l
-emacs 8-24_hours.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-./8-24
-./8-24 | wc -l
-
-emacs 8-24_hours.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-./8-24
-emacs 8-24_hours.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-./8-24
-./8-24 | wc -l
-emacs 8-24_hours.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-24_hours.c -o 8-24
-./8-24
-./8-24 | wc -l
-git add 8-24_hours.c
-git commit -m "hours"
-git push
-emacs 8-24_hours.c
-ls
-emacs 9-times_table.c
-emacs 9-main.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
-emacs 9-times_table.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
-emacs 9-times_table.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
-emacs 9-times_table.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
-emacs 9-times_table.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
-./9-times_table 
-git add 9-times_table.c
-git commit -m "fix"
-git push
-betty 9-times_table.c
-emacs 9-times_table.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
-./9-times_table 
-git add 9-times_table.c
-git commit -m "fix"
-git push
-./9-times_table 
-emacs 9-times_table.c
-./9-times_table | cat -e
-./9-times_table | tr ' ' . | cat -e
-emas holberton.h
-emacs holberton.h
-emacs 9-times_table.c
-betty 9-times_table.c
-emacs 9-times_table.c
-betty 9-times_table.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
-./9-times_table | cat -e
-git add 9-times_table.c
-git commit -m "fix"
-git push
-ls
-./9-times_table | cat -e
-cd ..
-ls
-cd 0x03-debugging/
-ls
-emacs 2-largest_number.c
-gcc -Wall -Werror -Wextra -pedantic 2-largest_number.c 2-main.c -o 2-main
-./2-main 
-git add 2-largest_number.c
-git commit -m "fix"
-git push
-emacs 2-largest_number.c
-git add 2-largest_number.c
-git commit -m "fix"
-git push
-cd .. 
-ls
-cd 0x02-functions_nested_loops/
-ls
-emacs 11-print_to_98.c
-emacs 11-main.c 
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 11-main.c 11-print_to_98.c -o 11-98
-emacs 11-print_to_98.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 11-main.c 11-print_to_98.c -o 11-98
-./11-98
-clear
-./11-98
-emacs 11-print_to_98.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 11-main.c 11-print_to_98.c -o 11-98
-./11-98
-betty 11-print_to_98.c
-emacs 11-print_to_98.c
-betty 11-print_to_98.c
-emacs 101-natural.c
-betty 101-natural.c
-git add 11-print_to_98.c 101-natural.c
-git commit -m "fix"
-git push
-emacs 101-natural.c
-betty 101-natural.c
-git add 11-print_to_98.c 101-natural.c
-git commit -m "fix"
-git add
-git push
-ls
-git status
-git add 101-natural.c
-git commit -m "fix"
-git push
-emacs 101-natural.c
-cd ..
-mkdir 0x04-more_functions_nested_loops
-cd 0x04-more_functions_nested_loops
-ls
-emacs README.md
-ls
-emacs 0-isupper.c
-emacs holberton.h
-ls
-emacs 0-isupper.c
-emacs 0-main.c
-ls 
-cd holbertonschool-low_level_programming/
-ls
-emacs 0x04-more_functions_nested_loops/
-cd 0x04-more_functions_nested_loops/
-ls
-emacs 0-main.c
-gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-isupper.c -o 0-isuper
-emacs 0x04-more_functions_nested_loops/
-emacs 0-isupper.c
-gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-isupper.c -o 0-isuper
-./0-isuper
-emacs 0-isupper.c
-gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-isupper.c -o 0-isuper
-emacs 0-isupper.c
-gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-isupper.c -o 0-isuper
-emacs 0-isupper.c
-gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-isupper.c -o 0-isuper
-emacs 0-isupper.c
-gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-isupper.c -o 0-isuper
-emacs 0-isupper.c
-gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-isupper.c -o 0-isuper
-./0-isuper
-gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-isupper.c -o 0-isuper
-emacs 0-isupper.c
-gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-isupper.c -o 0-isuper
-./0-isuper
-emacs 0-isupper.c
-gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-isupper.c -o 0-isuper
-emacs 0-isupper.c
-gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-isupper.c -o 0-isuper
-./0-isuper
-betty 0-isup
-betty 0-isuper.c
-ls
-betty 0-isupper.c
-emacs 1-isdigit.c
-emacs 1-main.c
-gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-isdigit.c -o 1-isdigit
-emacs 1-main.c
-gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-isdigit.c -o 1-isdigit
-emacs 1-isdigit.c
-gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-isdigit.c -o 1-isdigit
-emacs 1-main.c
-emacs 1-isdigit.c
-gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-isdigit.c -o 1-isdigit
-emacs 1-isdigit.c
-emacs 1-main.c
-emacs holberton.h
-gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-isdigit.c -o 1-isdigit
-emacs 1-isdigit.c
-emacs holberton.h
-gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-isdigit.c -o 1-isdigit
-./1-isdigit
-emacs 2-mul.c
-emacs 2-main.c
-gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-mul.c -o 2-mul
-./2-mul
-betty 1-isdigit
-betty 1-isdigit.c
-betty 2-m
-betty 2-mul.c
-emacs 2-main.c
-emacs 2-mul.c
-betty 2-mul.c
-emacs 3-print_numbers.c
-emacs _putchar.c
-ls.
-ls
-emacs holberton.h
-emacs 3-print_numbers.c
-emacs 3-main.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-print_numbers.c -o 3-print_numbers
-emacs 3-print_numbers.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-print_numbers.c -o 3-print_numbers
-./3-print_numbers
-emacs 3-print_numbers.c
-./3-print_numbers
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-print_numbers.c -o 3-print_numbers
-./3-print_numbers
-emacs 3-print_numbers.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-print_numbers.c -o 3-print_numbers
-./3-print_numbers
-emacs 3-print_numbers.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-print_numbers.c -o 3-print_numbers
-./3-print_numbers
-emacs 3-print_numbers.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-print_numbers.c -o 3-print_numbers
-emacs 3-print_numbers.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-print_numbers.c -o 3-print_numbers
-ls
-cd holbertonschool-low_level_programming/
-ls
-cd 0x04-more_functions_nested_loops/
-ls
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-print_numbers.c -o 3-print_numbers
-./ 3-print_numbers
-./3-print_numbers
-emacs 4-print_most_numbers.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-print_most_numbers.c -o 4-print_most_numbers
-emacs 4-main.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-print_most_numbers.c -o 4-print_most_numbers
-emacs 4-main.c
-emacs 4-print_most_numbers.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-print_most_numbers.c -o 4-print_most_numbers
-emacs 4-print_most_numbers.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 4-main.c 4-print_most_numbers.c -o 4-print_most_numbers
-./4-print_most_numbers 
-emacs 5-more_numbers.c
-emacs 5-main.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-more_numbers.c -o 5-more_numbers
-./5-more_numbers
-emacs ls
-ls
-emacs 6-print_line
-emacs 6-print_line.c
-emacs 6-main.c
-#include "holberton.h"
-/**
-emacs 6-main.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-print_line.c -o 6-lines
-emacs 6-main.c
-emacs 6-print_line.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-print_line.c -o 6-lines
-./6-lines
-emacs 6-print_line.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-print_line.c -o 6-lines
-./6-lines
-emacs 6-print_line.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-print_line.c -o 6-lines
-./6-lines
-emacs 6-print_line.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-print_line.c -o 6-lines
-emacs 6-print_line.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-print_line.c -o 6-lines
-emacs 6-print_line.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-print_line.c -o 6-lines
-emacs 6-print_line.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-print_line.c -o 6-lines
-emacs 6-print_line.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-print_line.c -o 6-lines
-emacs 6-print_line.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-print_line.c -o 6-lines
-emacs 6-print_line.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-print_line.c -o 6-lines
-emacs 6-print_line.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-print_line.c -o 6-lines
-emacs 6-print_line.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-print_line.c -o 6-lines
-emacs 6-print_line.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-print_line.c -o 6-lines
-./6-lines
-ls
-6-main.c
-emacs 6-main.c
-emacs 6-print_line.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 6-main.c 6-print_line.c -o 6-lines
-./6-lines
-./6-lines | cat -e
-emacs 7-print_diagonal.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_diagonal.c -o 7-diagonals
-emacs 7-main.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_diagonal.c -o 7-diagonals
-emacs 7-main.c
-emacs 6-print_line.c
-emacs 7-main.c
-emacs 7-print_diagonal.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_diagonal.c -o 7-diagonals
-emacs 7-print_diagonal.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_diagonal.c -o 7-diagonals
-./7-diagonals
-emacs 7-print_diagonal.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_diagonal.c -o 7-diagonals
-emacs 7-print_diagonal.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 7-main.c 7-print_diagonal.c -o 7-diagonals
-./7-diagonals 
-./7-diagonals | cat -e
-clear
-ls
-emacs 8-main.c
-emacs 9-main.c
-emacs 10-main.c
-ls
-emacs 10-main.c
-l
-cd holbertonschool-low_level_programming/
-ls
-cd 0x04
-cd 0x04-more_functions_nested_loops/
-cls
-ls
-emacs 10-main.c
-emacs 101-main.c
-emacs 8-print_square.c
-julien@ubuntu:~/0x04$ gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-print_square.c -o 8-squares
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-print_square.c -o 8-squares
-emacs 8-print_square.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-print_square.c -o 8-squares
-emacs 8-print_square.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 8-main.c 8-print_square.c -o 8-squares
-./8-squares
-ls
-emacs 9-fizz_buzz.c
-gcc -Wall -pedantic -Werror -Wextra 9-fizz_buzz.c -o 9-fizz_buzz
-emacs 9-fizz_buzz.c
-gcc -Wall -pedantic -Werror -Wextra 9-fizz_buzz.c -o 9-fizz_buzz
-emacs 9-fizz_buzz.c
-gcc -Wall -pedantic -Werror -Wextra 9-fizz_buzz.c -o 9-fizz_buzz
-/-fizz_buzz
-./9-fizz_buzz
-ls
-emacs 10-print_triangle.c
-emacs 100-prime_factor.c
-emacs 101-print_number.c
-ls 
-clear
-ls
-git add 0-isupper.c 1-isdigit.c 2-mul.c 3-print_numbers.c 4-print_most_numbers.c 5-more_numbers.c 6-print_line.c 7-print_diagonal.c 8-print_square.c 9-fizz_buzz 10-print_triangle.c 100-prime_factor.c 101-print_number.c 
-git commit -m "more functions"
-git push
-git add README.md holberton.h
-git commit -m "more functions"
-git push
-ls
-git add _putchar.c 
-git commit -m "more functions"
-git push
-ls
-betty 0-isupper.c
-emacs 0-isupper.c
-betty 0-isupper.c
-emacs 0-isupper.c
-betty 0-isupper.c
-git add 0-isupper.c
-git commit -m "more functions"
-git push
-./0-isupper
-ls
-./0-isuper
-emacs 0-isupper.c
-betty 0-isupper.c
-git commit -m "more functions"gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-isupper.c -o 0-isuper
-gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-isupper.c -o 0-isuper
-./0-isuper 
-git add 0-isupper.c
-git commit -m "more functions"
-git push
-betty 3-print_numbers.c
-emacs 3-print_numbers.c
-betty 3-print_numbers.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-print_numbers.c -o 3-print_numbers
-./3-print_numbers | cat -e
-git add 3-print_numbers.c
-git commit -m "more functions"
-git push
-betty 4-print_most_numbers.c
-emacs 4-print_most_numbers.c
-betty 4-print_most_numbers.c
-git add 4-print_most_numbers.c
-git commit -m "more functions"
-git push
-emacs 5-more_numbers.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 5-main.c 5-more_numbers.c -o 5-more_numbers
-./5-more_numbers 
-git add 5-more_numbers.c
-git commit -m "more functions"
-git push
-betty 5-more_numbers.c 
-emacs 5-more_numbers.c
-betty 5-more_numbers.c 
-git add 5-more_numbers.c
-git commit -m "more functions"
-git push
-betty 7-print_diagonal.c
-emacs 7-print_diagonal.c
-betty 7-print_diagonal.c
-git add 7-print_diagonal.c
-git commit -m "more functions"
-git push
-betty 8-print_square.c
-emacs 8-print_square.c
-betty 8-print_square.c
-git add 8-print_square.c
-git commit -m "more functions"
-git push
-git add 9-fizz_buzz.c
-git commit -m "more functions"
-git push
-betty 9-fizz_buzz
-betty 9-fizz_buzz.c
-emacs 8-print_square.c
-emacs 9-fizz_buzz.c
-betty 9-fizz_buzz.c
-git add 9-fizz_buzz.c
-git commit -m "more functions"
-git push
-emacs 10-print_triangle.c 
-betty 10-print_triangle.c 
-git add 10-print_triangle.c 
-git commit -m "more functions"
-git push
-emacs 100-prime_factor.c 
-cd ..
-ls
-cd 0x02-functions_nested_loops/
-ls
-emacs 9-times_table.c
-betty 9-times_table.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 9-main.c 9-times_table.c -o 9-times_table
-./9-times_table | cat -e
-git add 9-times_table.c
-git commit -m "more functions"
-git push
-emacs 9-times_table.c
-git add 9-times_table.c
-git commit -m "more functions"
-git push
-git add 9-times_table.c
-emacs 9-times_table.c
-emacs holberton.h
-ls
-./9-times_table | tr ' ' . | cat -e
-./9-times_table | cat -e
-emacs 101-natural.c
-git add 101-natural.c
-git commit -m "more functions"
-git push
-emacs 101-natural.c
-betty 101-natural.c
-emacs holberton.h
-cd ..
-ls
-mkdir 0x05-pointers_arrays_strings
-ls
-cd 0x05-pointers_arrays_strings/
-ls
-emacs README.md
-touch 0-reset_to_98.c
-touch 1-swap.c
-touch 2-strlen.c
-touch 3-puts.c
-touch
-touch 4-print_rev.c
-touch 5-rev_string.c
-touch 6-puts2.c
-touch
-touch 7-puts_half.c
-touch 8-print_array.c
-touch 9-strcpy.c
-touch 100-atoi.c
-touch 101-keygen.c
-touch holberton.h
-emacs holberton.h
-emacs _putchar.c
-emacs 0-main.c
-emacs 1-main.c
-emacs 2-main.c
-emacs 4-main.c
-emacs 3-main.c
-emacs 5-main.c
-emacs 6-main.c
-emacs 7-main.c
-#include "holberton.h"
-/**
-int main(void)
-{     char *str;     str = "0123456789";     puts_half(str);
-emacs 7-main.c
-ls
-cd holbertonschool-low_level_programming/
-ls
-cd 0x05-pointers_arrays_strings/
-ls
-emacs 7-main.c
-emacs 8-main.c
-emacs 9-main.c
-emacs 100-main.c
-ls
-emacs 0-reset_to_98.c 
-emacs 1-swap.c 
-clear
-ls
-emacs 2-strlen.c 
-emacs 3-puts.c 
-emacs 4-print_rev.c 
-emacs 5-rev_string.c 
-emacs 6-puts2.c 
-emacs 7-puts_half.c 
-emacs 8-print_array.c 
-emacs 9-strcpy.c 
-emacs 100-atoi.c 
-emacs 101-keygen.c 
-clear
-ls
-emacs 0-reset_to_98.c
-gcc -Wall -pedantic -Werror -Wextra 0-main.c 0-reset_to_98.c -o 0-98
-./0-98
-ls
-emacs 2-strlen.c
-emacs 1-swap.c
-gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-swap.c -o 1-swap
-emacs 1-swap.c
-gcc -Wall -pedantic -Werror -Wextra 1-main.c 1-swap.c -o 1-swap
-./1-swap
-betty 0-reset_to_98.c
-betty 1-swap.c
-emacs 2-strlen.c
-gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
-emacs 2-strlen.c
-gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
-emacs 2-strlen.c
-gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
-emacs 2-main.c
-emacs 2-strlen.c
-gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
-emacs 2-main.c
-emacs 2-strlen.c
-emacs holberton.h
-man strlen 
-emacs holberton.h
-emacs 2-strlen.c
-gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
-emacs 2-strlen.c
-gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
-emacs 2-strlen.c
-gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
-emacs 2-strlen.c
-gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
-emacs 2-strlen.c
-gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
-./2-strlen 
-emacs 2-strlen.c
-gcc -Wall -pedantic -Werror -Wextra 2-main.c 2-strlen.c -o 2-strlen
-./2-strlen 
-emacs 2-strlen.c
-betty 2-strlen.c
-emacs 2-strlen.c
-betty 2-strlen.c
-emacs 3-puts.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
-emacs 3-puts.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
-emacs 3-puts.c
-gcc -Wall -pedantic -Werror -Wextra _putchar.c 3-main.c 3-puts.c -o 3-puts
-emacs 3-puts.c
-ls
 cd holbertonschool-low_level_programming/
 cd 0x05-pointers_arrays_strings/
 ls
@@ -1998,3 +847,1154 @@ git commit -m "README"
 git push
 man ./man_3_printf
 vim README.md 
+sudo apt-get install python3-pep8
+sudo apt-get install python3-pip
+pip3 install pep8
+pep8 --version
+pip3 install pep8
+pep8 --version
+pip3 install pep8
+install --upgrade pep8
+pip3 install --upgrade pep8
+pip3 uninstall pep8
+ls
+pip install pep8
+ls
+cd usr
+cd /usr
+ls
+cd
+cd /usr/local/lib/python3*/dist-packages/pep8.py
+cd /usr/local/lib/python3*/dist-packages/pep8
+cd /usr/lib/python3*/dist-packages/pep8.py
+cd /usr/lib/python3*/dist-packages/pep8
+cp pep8.py /usr/bin/pep8
+pip3 install --upgrade pep8==1.7.0
+sudo apt-get install python3-pip
+pip3 install pep8
+cd /usr/local/lib/python3*/dist-packages/
+ls
+cd
+cd /usr/lib/python3*/dist-packages
+ls
+cd
+cp pep8.py /usr/bin/pep8
+chmod u+x /usr/bin/pep8
+ls
+mkdir holbertonschool-higher_level_programming
+ls
+git pull
+ls
+cd holbertonschool-higher_level_programming/
+ls
+git commit -m "hight level"
+git push
+ls
+cd
+rmdir holbertonschool-higher_level_programming/
+ls
+echo "# holbertonschool-higher_level_programming" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/dalejoroc11/holbertonschool-higher_level_programming.git
+git push -u origin master
+ls
+cd
+echo "# holbertonschool-higher_level_programming" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/dalejoroc11/holbertonschool-higher_level_programming.git
+git push -u origin master
+echo "# holbertonschool-higher_level_programming" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/dalejoroc11/holbertonschool-higher_level_programming.git
+git push -u origin master
+ls
+git add .
+git commit -m "hight"
+git push
+ls
+echo "# holbertonschool-higher_level_programming" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/dalejoroc11/holbertonschool-higher_level_programming.git
+git push -u origin master
+echo "# holbertonschool-higher_level_programming" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:dalejoroc11/holbertonschool-higher_level_programming.git
+git push -u origin master
+ls
+git status
+mkdir holbertonschool-higher_level_programming
+ls
+cd holbertonschool-higher_level_programming
+ls
+echo "# holbertonschool-higher_level_programming" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:dalejoroc11/holbertonschool-higher_level_programming.git
+git push -u origin master
+ls
+echo "# holbertonschool-higher_level_programming" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/dalejoroc11/holbertonschool-higher_level_programming.git
+git push -u origin master
+ls
+ls7
+ls
+git add .
+git commit -m "ey"
+git push
+git add .
+git commit -m "ey"
+git push origin master
+ls
+cd
+ls
+cd holbertonschool-higher_level_programming/
+ls
+git status
+emacs README.md 
+ls
+git add README.md 
+git commit -m "README"
+git push
+cd
+rmdir holbertonschool-higher_level_programming/
+ls
+cd holbertonschool-higher_level_programming/
+ls
+rm README.md 
+LS
+ls
+cd
+rmdir holbertonschool-higher_level_programming/
+ls
+rmdir holbertonschool-higher_level_programming/
+ls
+rm holbertonschool-higher_level_programming/
+rm -r holbertonschool-higher_level_programming/
+ls
+rm -R holbertonschool-higher_level_programming/
+sudo rm -R holbertonschool-higher_level_programming/
+ls
+cd holbertonschool-higher_level_programming
+ls
+mkdir holbertonschool-higher_level_programming
+ls
+cd holbertonschool-higher_level_programming/
+ls
+echo "# holbertonschool-higher_level_programming" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/dalejoroc11/holbertonschool-higher_level_programming.git
+git push -u origin master
+ls
+mkdir 0x00-python-hello_world
+ls
+cd 0x00-python-hello_world/
+ls
+touch 0-run
+ls
+emacs 0-run
+cat main.py.
+chmod u+x 0-run
+ls
+touch main.py
+emacs main.py
+export PYFILE=main.py
+./0-run
+git add 0-run
+git commit -m "run"
+git push
+ls
+touch README.md
+emacs README.md 
+git add 0-run README.md
+git commit -m "run"
+git push
+betty 0-run
+ls
+emacs 0-run
+chmod u+x 0-run
+ls
+git status
+ls
+emacs 0-run
+ls
+sudo apt-get install pip3
+cd.
+cd
+sudo apt-get install pip3
+sudo pip3 install pep8==1.7.0
+pep8 --version
+ls
+cd holbertonschool-higher_level_programming/
+ls
+cd 0x00-python-hello_world/
+ls
+git add
+git add .
+git commit -m "1"
+git push origin master
+wc -l 0-run
+emacs 0-run
+wc -l 0-run
+git add .
+git commit -m "hello"
+git push
+touch 1-run_inline
+
+export PYCODE='print("Holberton School: {}".format(88+10))'
+chmod u+x 1-run_inline
+./1-run_inline
+touch 2-print.py
+emacs 2-print.py 
+chmod 2-print.py
+chmod u+x 2-print.py
+./2-print.py 
+chmod u+x 2-print.py
+emacs 2-print.py 
+chmod u+x 2-print.py
+./2-print.py 
+emacs 2-print.py 
+./2-print.py 
+touch 3-print_number.py
+emacs 3-print_number.py 
+chmod u+x 3-print_number.py
+./3-print_number.py
+emacs 3-print_number.py 
+./3-print_number.py
+wc -l 3-print_number.py
+emacs 3-print_number.py 
+wc -l 3-print_number.py
+emacs 3-print_number.py 
+wc -l 3-print_number.py
+emacs 3-print_number.py 
+vim 3-print_number.py
+wc -l 3-print_number.py
+emacs 3-print_number.py 
+wc -l 3-print_number.py
+wc -l 2-print.py
+emacs 2-print.py
+wc -l 2-print.py
+wc -l 1-run_inline
+touch 4-print_float.py
+emacs 4-print_float.py 
+chmod u+x 4-print_float.py
+ls
+./4-print_float.py 
+wc -l 4-print_float.py
+touch 5-print_string.py
+emacs 5-print_string.py 
+chmod u+x 5-print_string.py 
+ls
+./5-print_string.py 
+git add 1-run_inline 2-print.py 3-print_number.py 4-print_float.py 5-print_string.py
+git commit -m "high level"
+git push
+emacs 3-print_number.py
+git add 3-print_number.py
+git commit -m "high level"
+git push
+touch 6-concat.py
+emacs 6-concat.py 
+chmod u+x 6-concat.py
+./6-concat.py 
+touch 7-edges.py
+emacs 7-edges.py 
+chmod u+x 7-edges.py
+./7-edges.py 
+emacs 7-edges.py 
+./7-edges.py 
+wc -l 7-edges.py
+touch 8-concat_edges.py
+emacs 8-concat_edges.py
+chmod u+x 8-concat_edges.py
+./8-concat_edges.py 
+wc -l 8-concat_edges.py
+touch 9-easter_egg.py
+emacs 9-easter_egg.py 
+chmod u+x 9-easter_egg.py
+./9-easter_egg.py 
+wc -m 9-easter_egg.py
+touch lists.h
+emacs lists.h
+touch 10-linked_lists.c
+emacs 10-linked_lists.c 
+touch 10-main.c
+emacs 10-main.c
+gcc -Wall -Werror -Wextra -pedantic 10-main.c 10-check_cycle.c 10-linked_lists.c -o cycle
+ls
+emacs lists.h
+touch 10-check_cycle.c
+emacs 10-check_cycle.c 
+gcc -Wall -Werror -Wextra -pedantic 10-main.c 10-check_cycle.c 10-linked_lists.c -o cycle
+./cycle 
+git add 6-concat.py 7-edges.py 8-concat_edges.py
+git add 6-concat.py 7-edges.py 8-concat_edges.py 9-easter_egg.py 10-check_cycle.c 10-linked_lists.c 10-main.c lists.h
+git commit -m "high"
+git push
+emacs 8-concat_edges.py
+wc -l 8-concat_edges.py
+emacs 8-concat_edges.py
+wc -l 8-concat_edges.py
+git add 8-concat_edges.py
+git commit -m "hight"
+git push
+touch 100-write.py
+emacs 100-write.py 
+touch 101-compile
+emacs 101-compile 
+chmod u+x 100-write.py
+chmod u+x 101-compile
+la
+ls
+touch 102-magic_calculation.py
+emacs 102-magic_calculation.py 
+chmod u++x 102-magic_calculation.py
+chmod u+x 102-magic_calculation.py
+ls
+git add 100-write.py 101-compile 102-magic_calculation.py
+git commit -m "high"
+git push
+ls
+emacs 102-magic_calculation.py 
+./102-magic_calculation.py 
+emacs 102-magic_calculation.py 
+./102-magic_calculation.py 
+emacs 102-magic_calculation.py 
+dis.dis(magic_calculation)
+git add 102-magic_calculation.py
+git commit -m "high"
+git push
+emacs 101-compile
+ls
+export PYFILE=main.py
+./101-compile
+ls
+od -t x1 main.pyc # SYSTEM DEPENDANT => CAN BE DIFFERENT
+git pull
+ls
+cd ..
+ls
+mkdir 0x01-python-if_else_loops_functions
+ls
+cd 0x01-python-if_else_loops_functions/
+ls
+touch README.md
+touch 0-positive_or_negative.py
+emacs 0-positive_or_negative.py 
+gcc -Wall -Werror -Wextra and -pedantic 0-positive_or_negative.py -o 0
+gcc -Wall -pedantic -Werror -Wextra 0-positive_or_negative.py -o 0-positive_or_negative
+ls
+chmod u+x 0-positive_or_negative.py
+ls
+./0-positive_or_negative.py 
+emacs 0-positive_or_negative.py 
+./0-positive_or_negative.py 
+emacs 0-positive_or_negative.py 
+./0-positive_or_negative.py 
+emacs 0-positive_or_negative.py 
+./0-positive_or_negative.py 
+betty 0-positive_or_negative.py
+ls
+1-last_digit.py
+touch 1-last_digit.py
+emacs 1-last_digit.py
+chmod u+x 1-last_digit.py
+./1-last_digit.py 
+emacs 1-last_digit.py
+chmod u+x 1-last_digit.py
+./1-last_digit.py 
+touch 2-print_alphabet.py
+emacs 2-print_alphabet.py 
+chmod u+x 2-print_alphabet.py
+./2-print_alphabet.py 
+emacs 2-print_alphabet.py 
+./2-print_alphabet.py 
+touch 3-print_alphabt.py
+emacs 3-print_alphabt.py
+ls
+cd holbertonschool-higher_level_programming/
+ls
+cd 0x01-python-if_else_loops_functions/
+ls
+emacs 3-print_alphabt.py 
+chmod u+x 3-print_alphabt.py
+./3-print_alphabt.py 
+emacs 3-print_alphabt.py 
+./3-print_alphabt.py 
+emacs 3-print_alphabt.py 
+./3-print_alphabt.py 
+emacs 3-print_alphabt.py 
+./3-print_alphabt.py 
+touch 4-print_hexa.py
+emacs 4-print_hexa.py 
+chmod u+x 4-print_hexa.py
+./4-print_hexa.py 
+touch 5-print_comb2.py
+emacs 5-print_comb2.py 
+chmod u+x 5-print_comb2.py
+./5-print_comb2.py 
+emacs 5-print_comb2.py 
+./5-print_comb2.py 
+emacs 5-print_comb2.py 
+./5-print_comb2.py 
+touch 6-print_comb3.py
+emacs 6-print_comb3.py 
+chmod 6-print_comb3.py
+chmod u+x 6-print_comb3.py
+./6-print_comb3.py 
+touch 7-islower.py
+emacs 7-islower.py 
+chmod u+x 7-islower.py
+./7-islower.py 
+git add 0-positive_or_negative.py 1-last_digit.py 2-print_alphabet.py 3-print_alphabt.py 4-print_hexa.py 5-print_comb2.py 6-print_comb3.py 7-islower.py README.md 
+git commit -m "higher"
+git push
+ls
+emacs 0-positive_or_negative.py
+git add 0-positive_or_negative.py
+git commit -m "higher"
+git push
+betty 0-positive_or_negative.py
+ls
+emacs 0-positive_or_negative.py
+emacs README.md 
+git add README.md 
+git commit -m "higher"
+git push
+emacs 3-print_alphabt.py
+git add 3-print_alphabt.py
+git commit -m "higher"
+git push
+emacs 3-print_alphabt.py
+git add 3-print_alphabt.py
+git commit -m "higher"
+git push
+ls
+betty 3-print_alphabt.py
+./3-print_alphabt.py
+betty 3-print_alphabt.py
+emacs 3-print_alphabt.py
+git add 3-print_alphabt.py
+git commit -m "higher"
+git push
+betty 3-print_alphabt.py
+emacs 3-print_alphabt.py
+git add 3-print_alphabt.py
+git commit -m "higher"
+git push
+emacs 5-print_comb2.py
+git add 5-print_comb2.py
+git commit -m "higher"
+git push
+emacs 6-print_comb3.py
+git add 5-print_comb2.py
+git add 6-print_comb3.py~ 
+git commit -m "higher"
+git push
+emacs 6-print_comb3.py
+git add 6-print_comb3.py~ 
+git commit -m "higher"
+git push
+emacs 6-print_comb3.py
+git add 6-print_comb3.py~ 
+git commit -m "higher"
+git push origin master
+ls
+touch 8-uppercase.py
+emacs 8-uppercase.py
+git add 6-print_comb3.py
+git commit -m "higher"
+git push origin master
+git add 8-uppercase.py
+git commit -m "higher"
+git push origin master
+emacs 8-uppercase.py
+git add 8-uppercase.py
+git commit -m "higher"
+git push
+git add 8-uppercase.py
+emacs 8-uppercase.py
+git add 8-uppercase.py
+git commit -m "higher"
+git push
+chmod 8-uppercase.py
+chmod u+x 8-uppercase.py
+ls
+git add 8-uppercase.py
+git commit -m "higher"
+git push
+touch lists.h
+emacs lists.h
+git add lists.h
+git commit -m "higher"
+git push
+emacs 8-uppercase.py
+git add 8-uppercase.py
+git commit -m "higher"
+git push
+touch 8-main.py
+emacs 8-main.py 
+chmod u+x 8-main.py
+./8-main.py 
+git add 8-uppercase.py 8-main.py
+git commit -m "higher"
+git push
+./8-main.py 
+emacs 8-main.py 
+ls
+git add 8-uppercase.py 8-main.py
+git commit -m "higher"
+git push
+touch 9-print_last_digit.py
+emacs 1-last_digit.py
+emacs 2-print_alphabet.py
+emacs 9-print_last_digit.py
+touch 9-main.c
+touch 9-main.py
+emacs 9-main.py
+chmod u+x 9-print_last_digit.py
+chmod u+x 9-main.py
+./9-main.py 
+./9-print_last_digit.py 
+git add 9-main.py 9-print_last_digit.py
+git commit -m "last"
+git push
+emacs lists.h
+emacs 7-islower.py
+emacs 8-uppercase.py
+emacs 1-last_digit.py
+emacs 8-uppercase.py
+git add 8-uppercase.py 8-main.py
+git commit -m "last"
+git push
+emacs 9-print_last_digit.py
+git add 9-main.py 9-print_last_digit.py
+git commit -m "last"
+git push
+touch 10-add.py
+emacs 10-add.py 
+git add 10-add.py
+git commit -m "last"
+git push
+git add 10-add.py
+emacs 10-add.py 
+git add 10-add.py
+git commit -m "last"
+git push
+emacs 10-add.py 
+touch 10-main.py
+emacs 10-main.py 
+ls
+chmod u+x 10-main.py
+chmod u+x 10-add.py
+./10-main.py 
+git add 10-add.py 10-main.py
+git commit -m "last"
+git push
+emacs 6-print_comb3.py
+git add 6-print_comb3.py 
+git commit -m "last"
+git push
+touch 11-pow.py
+emacs 11-pow.py 
+touch 11-main.py
+emacs 11-main.py 
+chmod u+x 11-pow.py
+chmod u+x 11-main.py
+./11-main.py 
+git add 11-pow.py
+git commit -m "hola"
+git push
+touch 12-fizzbuzz.py
+touch 12-main.py
+emacs 12-fizzbuzz.py 
+emacs 12-main.py 
+chmod u+x 12-fizzbuzz.py
+chmod u+x 12-main.py
+./12-main.py 
+git add 12-main.py 12-fizzbuzz.py
+git commit -m "python"
+git push
+git push origin master
+ls
+cd holbertonschool-higher_level_programming/
+ls
+cd 0x01-python-if_else_loops_functions/
+ls
+chmod u+x 100-print_tebahpla.py
+ls
+chmod u+x 101-remove_char_at.py
+chmod u+x 102-magic_calculation.py
+emacs 100-print_tebahpla.py
+git add 100-print_tebahpla.py
+git commit -m "complete"
+git push
+ls 
+cd holberton
+cd holbertonschool-higher_level_programming/
+ls
+cd hola
+ls
+cdd ..
+cd ..
+ls
+cd holbertonschool-higher_level_programming/
+ls
+rmdir hola
+rm -rf hola
+ls
+rm -rf holaaaaaaa
+ls
+mkdir 0x02-python-import_modules
+mkdir mkdir 0x17-doubly_linked_lists
+ls
+cd 0x02-python-import_modules/
+ls
+touch README.md
+emacs README.md 
+touch 0-add.py
+emacs 0-add.py
+touch add_0.py
+emacs add_0.py 
+chmod u+x 0-add.py
+./0-add.py
+touch 0-import_add.py
+emacs 0-import_add.py 
+python3 0-import_add.py 
+touch 1-calculation.py
+emacs 1-calculation.py 
+emacs 1-calculation.py
+git add 0-add.py 1-calculation.py
+git commit -m "hola"
+git push
+git add README.md
+git commit -m "hola"
+git push
+touch 2-args.py
+emacs 2-args.py
+touch 3-infinite_add.py
+emacs 3-infinite_add.py 
+git add 2-args.py 3-infinite_add.py
+git commit -m "add"
+git push
+emacs 2-args.py
+pep8 2-args.py
+emacs 2-args.py
+git add 2-args.py 3-infinite_add.py
+git commit -m "add"
+git push
+emacs 2-args.py
+git add 2-args.py 3-infinite_add.py
+git commit -m "add"
+git push
+emacs 2-args.py
+chmod u+x 2-args.py
+chmod u+x 3-infinite_add.py
+ls
+git add 2-args.py 3-infinite_add.py
+git commit -m "hola"
+git push
+touch 4-hidden_discovery.py
+emacs 4-hidden_discovery.py 
+pep8 4-hidden_discovery.py
+git add 4-hidden_discovery.py
+git commit -m "high"
+git push
+chmod u+x 4-hidden_discovery.py
+git add 4-hidden_discovery.py
+git commit -m "high"
+git push
+emacs 4-hidden_discovery.py 
+git add 4-hidden_discovery.py
+git commit -m "high"
+git push
+lsls
+ls
+emacs 4-hidden_discovery.py 
+git add 4-hidden_discovery.py
+git commit -m "high"
+git push
+touch 5-variable_load.py
+emacs 5-variable_load.py 
+git add 5-variable_load.py
+git commit -m "five"
+git push
+ls
+chmod u+x 5-variable_load.py
+git add 5-variable_load.py
+git commit -m "five"
+git push
+touch 100-my_calculator.py
+touch 101-easy_print.py
+touch 102-magic_calculation.py
+touch 103-fast_alphabet.py
+ls
+chmod u+x 100-my_calculator.py 101-easy_print.py 102-magic_calculation.py 103-fast_alphabet.py 
+ls
+emacs 100-my_calculator.py 
+emacs 101-easy_print.py 
+git add 101-easy_print.py
+git commit -m "easy"
+git push
+emacs 101-easy_print.py 
+git add 101-easy_print.py
+git commit -m "easy"
+git push
+emacs 102-magic_calculation.py 
+emacs 103-fast_alphabet.py 
+git add 102-magic_calculation.py 103-fast_alphabet.py
+git commit -m "high"
+git push
+cd ..
+ls
+cd 0x17-doubly_linked_lists/
+ls
+touch README.md
+cd
+holbertonschool-low_level_programming/
+cd holbertonschool-low_level_programming/
+ls
+mkdir 0x17-doubly_linked_lists
+ls
+cd 0x17-doubly_linked_lists/
+ls
+touch README.md
+emacs README.md 
+touch 0-print_dlistint.c
+touch 1-dlistint_len.c
+touch 2-add_dnodeint.c
+touch3-add_dnodeint_end.c
+touch 3-add_dnodeint_end.c
+touch 4-free_dlistint.c
+touch 5-get_dnodeint.c
+touch 6-sum_dlistint.c.
+touch 7-insert_dnodeint.c, 2-add_dnodeint.c, 3-add_dnodeint_end.c
+touch ls
+ls
+rm ls
+ls
+touch 8-delete_dnodeint.c
+touch touch 100-password
+touch 102-result
+touch 103-keygen.c
+ls
+touch 7-insert_dnodeint.c
+touch 2-add_dnodeint.c
+rm 2-add_dnodeint.c,
+rm 7-insert_dnodeint.c,
+ls
+rm touch 
+ls
+git add .
+git commit -m "all"
+git push
+ls
+emacs 0-print_dlistint.c 
+emacs 1
+emacs 1-dlistint_len.c 
+emacs 2-add_dnodeint.c 
+emacs 3-add_dnodeint_end.c 
+emacs 4
+ls
+emacs 4-free_dlistint.c 
+emacs 5-get_dnodeint.c 
+touch lists.h
+emacs lists.h 
+ls
+betty 0-print_dlistint.c 
+emacs 0-print_dlistint.c 
+betty 0-print_dlistint.c 
+betty 1
+betty 1-dlistint_len.c 
+emacs 1-dlistint_len.c 
+emacs 2-add_dnodeint.c 
+emacs 3-add_dnodeint_end.c 
+git clone https://github.com/dalejoroc11/holbertonschool-higher_level_programming.git
+ls
+cd
+h
+ls
+cd holbertonschool-higher_level_programming/
+mkdir holaaaaaaa
+git holaaaaaaa/
+git add holaaaaaaa/
+git commit -m "kk"
+cd holaaaaaaa/
+ls
+touch README.md
+ls
+git add README.md 
+git commit -m "kk"
+git push
+ls
+cd ..
+ls
+cd
+git config --global user.email diegorojas279@hotmail.com
+git config --global user.email diegorojas11@hotmail.com
+ls
+holbertonschool-higher_level_programming/
+cd
+cd holbertonschool-low_level_programming/
+ls
+cd 0x17-doubly_linked_lists/
+ls
+emacs 4-free_dlistint.c 
+emacs 5-get_dnodeint.c 
+emacs 3-add_dnodeint_end.c 
+ls
+git add .
+git commit -m "double"
+git push
+ls
+rm 6-sum_dlistint.c. 6-sum_dlistint.c
+git add 6-sum_dlistint.c
+LS
+ls
+touch 6-
+touch 6-sum_dlistint.c
+emacs 6-sum_dlistint.c 
+git add 6-sum_dlistint.c
+git commit -m "listint"
+git push
+ls
+emacs 6-sum_dlistint.c
+betty 6-sum_dlistint.c
+git add .
+git commit -m "finish"
+git push
+ls
+emacs lists.h
+git add . 
+git commit -m "finish"
+git push
+emacs lists.h
+ls
+git status
+emacs README.md
+emacs 
+emacs lists.h
+emacs 6-sum_dlistint.c
+ls
+git add .
+git add lists.h
+git commit -m "finish"
+git push
+emacs lists.h
+git add .
+git status
+git add lists.h
+git commit -m "finish"
+git push
+emacs 7-insert_dnodeint.c 
+emacs 8-delete_dnodeint.c 
+ls
+emacs 100-password 
+emacs 102-result 
+git add.
+git add .
+git add 7-insert_dnodeint.c 8-delete_dnodeint.c 100-password 102-result 
+git commit -m "finish"
+git push
+betty 7-insert_dnodeint.c 
+emacs 7-insert_dnodeint.c 
+betty 7-insert_dnodeint.c 
+emacs 8-delete_dnodeint.c 
+git add 7-insert_dnodeint.c 8-delete_dnodeint.c 
+git commit -m "seven eight"
+git push
+ls
+emacs 103-keygen.c 
+git add 103-keygen.c 
+git commit  -m "new"
+git push
+ls
+emacs 7-insert_dnodeint.c 
+git add 7-insert_dnodeint.c 
+git commit  -m "new"
+git push
+cd ..
+cd holbertonschool-higher_level_programming/
+ls
+cd 0x02-python-import_modules/
+ls
+emacs 100-my_calculator.py
+git add 100-my_calculator.py
+git commit -m "ok"
+git push
+cd ..
+ls
+cd
+cd holbertonschool-low_level_programming/
+ls
+README.md
+touch README.md
+touch libholberton.so
+touch holberton.h
+touch 1-create_dynamic_lib.sh
+touch 100-operations.so
+touch 101-make_me_win.sh
+emacs README.md 
+ls
+rm 100-operations.so 101-make_me_win.sh 1-create_dynamic_lib.sh holberton.h libholberton.so 
+ls
+mkdir 0x18-dynamic_libraries
+ls
+cd 0x18-dynamic_libraries/
+ls
+touch README.md
+touch libholberton.so
+touch holberton.h
+touch 1-create_dynamic_lib.sh
+touch 100-operations.so
+touch 101-make_me_win.sh
+ls
+emacs 1-create_dynamic_lib.sh 
+emacs holberton.h 
+ls
+emacs README.md 
+ls
+emacs 100
+emacs 100-operations.so
+ls
+chmod u+x 1-create_dynamic_lib.sh
+ls
+chmod u+x 100-operations.so 
+chmod u+x libholberton.so 
+ls
+chmod u+x 101-make_me_win.sh 
+ls
+ls -la lib*
+git add .
+git commit -m "ji"
+git push
+emacs 1-create_dynamic_lib.sh
+git add .
+git commit -m "ji"
+git push
+emacs 100-operations.so
+ar rc int _putchar(char c);
+int _islower(int c);
+int _isalpha(int c);
+int _abs(int n);
+int _isupper(int c);
+int _isdigit(int c);
+int _strlen(char *s);
+void _puts(char *s);
+char *_strcpy(char *dest, char *src);
+int _atoi(char *s);
+char *_strcat(char *dest, char *src);
+char *_strncat(char *dest, char *src, int n);
+char *_strncpy(char *dest, char *src, int n);
+int _strcmp(char *s1, char *s2);
+char *_memset(char *s, char b, unsigned int n);
+char *_memcpy(char *dest, char *src, unsigned int n);
+char *_strchr(char *s, char c);
+unsigned int _strspn(char *s, char *accept);
+char *_strpbrk(char *s, char *accept);
+ar rc libholberton.so
+ranlib libholberton.so 
+ls
+git add .
+git commit -m "fis"
+git push
+emacs holberton.h
+gcc -shared -o libholberton.so 
+gcc -shared libholberton.so 
+gcc -shared libholberton.so holberton.h
+emacs libholberton.so
+ls
+emacs libholberton.h
+emacs libholberton.so
+gcc -shared libholberton.so holberton.h
+gcc -shared libholberton.so
+echo $libholberton.so
+ls
+emacs libholberton.so
+#!/bin/bash
+cp {$(find . -name “_putchar.c”),$(find . -name “3-islower.c”),$(find . -name “4-isalpha.c”),$(find . -name “6-abs.c”),$(find . -name “0-isupper.c”),$(find . -name “1-isdigit.c”),$(find . -name “2-strlen.c”),$(find . -name “3-puts.c”),$(find . -name “9-strcpy.c”),$(find . -name “100-atoi.c”),$(find . -name “0-strcat.c”),$(find . -name “1-strncat.c”),$(find . -name “2-strncpy.c”),$(find . -name “3-strcmp.c”),$(find . -name “0-memset.c”),$(find . -name “1-memcpy.c”),$(find . -name “2-strchr.c”),$(find . -name “3-strspn.c”),$(find . -name “4-strpbrk.c”),$(find . -name “5-strstr.c”),} 0x18-dynamic_libraries
+ls
+emacs holberton.h
+touch files.sh
+gcc -Wall -fPIC -c *.c
+ls *.o
+touch file
+emacs file
+chmod u+x file
+ls
+libholberton.h
+libholberton.so
+emacs libholberton.so
+ls
+cd holbertonschool-low_level_programming/
+ls
+cd 0x18
+cd 0x18-dynamic_libraries/
+ls
+gcc -Wall -fPIC -c *.c
+gcc -Wall -fPIC files *.c
+gcc -Wall -fPIC file *.c
+mv file file.c
+gcc -Wall -fPIC file *.c
+gcc -Wall -fPIC file.c *.c
+emacs file.c
+gcc -Wall -fPIC file.c *.c
+gcc -Wall -fPIC file *.c
+ls
+mv file.c file
+ls
+gcc -Wall -fPIC file *.c
+file
+ls
+./file
+cat file
+gcc -Wall -fPIC file *.c
+cd
+cd holbertonschool-low_level_programming/ls
+cd holbertonschool-low_level_programming
+ls
+cd 0x05-pointers_arrays_strings/
+ls
+emacs 100-atoi.c
+git add 100-atoi.c
+git commit -m "atoi"
+git push
+ls
+cd ..
+0x18-dynamic_libraries/
+ls
+cd 0x18-dynamic_libraries/
+ls
+gcc -Wall -fPIC file *.c
+./file
+gcc -Wall -fPIC file *.c
+ls
+ls *.o
+
+gcc -Wall -fPIC file *.c
+ld -o file
+
+gcc -Wall -fPIC file *.c -o
+gcc -Wall -fPIC file *.c -o *.o
+ls
+emacs file
+gcc -c -fPIC *c
+ls
+gcc -Wall -fPIC file *.c
+gcc -shared -o libholberton.so *.c
+gcc -shared -o libholberton.so *.o
+ls
+git add .
+git commit -m "dinamic"
+git push
+cd ..
+ls
+cd 0x05-pointers_arrays_strings/
+ls
+emacs 100-
+emacs 100-atoi.c
+betty 100-atoi.c
+emacs 100-atoi.c
+betty 100-atoi.c
+git add 100-atoi.c
+git commit -m "helñ"
+git push
+ls
+emacs 101-keygen.c
+git add 101-keygen.c
+git commit -m "helñ"
+git push
+cd ..
+cd holbertonschool-higher_level_programming/
+ls
+mkdir 0x03-python-data_structures
+ls
+cd 0x03-python-data_structures/
+ls
+touch README.md
+emacs README.md 
+touch
+touch 0-print_list_integer.py
+touch 1-element_at.py
+touch 
+touch 2-replace_in_list.py
+touch 3-print_reversed_list_integer.py
+touch 4-new_in_list.py
+touch 5-no_c.py
+touch 
+touch 6-print_matrix_integer.py
+touch 7-add_tuple.py
+touch 8-multiple_returns.py
+touch 
+touch 9-max_integer.py
+touch 10-divisible_by_2.py
+touch 11-delete_at.py
+touch 
+touch 12-switch.py
+touch 13-is_palindrome.c
+touch lists.h
+touch 100-print_python_list_info.c
+ls
+emacs 0-print_list_integer.py 
+emacs 1
+emacs 1-element_at.py 
+emacs 2-replace_in_list.py 
+emacs 3-print_reversed_list_integer.py 
+emacs 4-new_in_list.py 
+emacs 5-no_c.py 
+emacs 6-print_matrix_integer.py 
+emacs 7-add_tuple.py 
+emacs 8-multiple_returns.py 
+emacs 9-max_integer.py 
+emacs 10-divisible_by_2.py 
+emacs 11-delete_at.py 
+emacs 12-switch.py 
+emacs 13-is_palindrome.c 
+emacs 100-print_python_list_info.c 
+emacs lists.h
+emacs 0-print_list_integer.py
+emacs 1-element_at.py
+emacs 2-replace_in_list.py
+emacs 1-element_at.py
+pep 8 1-element_at.py
+pep8 1-element_at.py
+emacs 1-element_at.py
+pep8 1-element_at.py
+pep8 0-print_list_integer.py
+emacs  0-print_list_integer.py
+pep8 0-print_list_integer.py
+emacs  0-print_list_integer.py
+pep8 0-print_list_integer.py
+emacs  0-print_list_integer.py
+pep8 0-print_list_integer.py
+emacs  0-print_list_integer.py
+pep8 0-print_list_integer.py
+ls
+emacs 2-replace_in_list.py
+pep8 2-replace_in_list.py
+emacs 3-print_reversed_list_integer.py
+pep8 3-print_reversed_list_integer.py
+emacs 4-new_in_list.py
+pep8 4-new_in_list.py
+emacs 5-no_c.py
+emacs 6-print_matrix_integer.py
+emacs 7-add_tuple.py
+emacs 8-multiple_returns.py
+emacs 9-max_integer.py
+emacs 10-divisible_by_2.py
+pep8 5-no_c.py

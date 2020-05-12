@@ -38,18 +38,20 @@
 	;
 
 # File marks:
-'0  81  0  ~/holbertonschool-low_level_programming/0x15-file_io/3-cp.c
-'1  1  1  ~/holbertonschool-low_level_programming/0x15-file_io/2-append_text_to_file.c
-'2  14  0  ~/holbertonschool-low_level_programming/0x15-file_io/1-create_file.c
-'3  16  0  ~/holbertonschool-low_level_programming/0x15-file_io/1-create_file.c
-'4  18  0  ~/holbertonschool-low_level_programming/0x15-file_io/1-create_file.c
-'5  13  0  ~/holbertonschool-low_level_programming/0x15-file_io/1-create_file.c
-'6  10  0  ~/holbertonschool-low_level_programming/0x15-file_io/1-create_file.c
-'7  1  1  ~/holbertonschool-low_level_programming/0x15-file_io/1-create_file.c
-'8  1  1  ~/holbertonschool-low_level_programming/0x15-file_io/0-read_textfile.c
-'9  7  0  ~/holbertonschool-low_level_programming/0x15-file_io/holberton.h
+'0  3  0  ~/holbertonschool-higher_level_programming/0x00-python-hello_world/3-print_number.py
+'1  81  0  ~/holbertonschool-low_level_programming/0x15-file_io/3-cp.c
+'2  1  1  ~/holbertonschool-low_level_programming/0x15-file_io/2-append_text_to_file.c
+'3  14  0  ~/holbertonschool-low_level_programming/0x15-file_io/1-create_file.c
+'4  16  0  ~/holbertonschool-low_level_programming/0x15-file_io/1-create_file.c
+'5  18  0  ~/holbertonschool-low_level_programming/0x15-file_io/1-create_file.c
+'6  13  0  ~/holbertonschool-low_level_programming/0x15-file_io/1-create_file.c
+'7  10  0  ~/holbertonschool-low_level_programming/0x15-file_io/1-create_file.c
+'8  1  1  ~/holbertonschool-low_level_programming/0x15-file_io/1-create_file.c
+'9  1  1  ~/holbertonschool-low_level_programming/0x15-file_io/0-read_textfile.c
 
 # Jumplist (newest first):
+-'  3  0  ~/holbertonschool-higher_level_programming/0x00-python-hello_world/3-print_number.py
+-'  1  0  ~/holbertonschool-higher_level_programming/0x00-python-hello_world/3-print_number.py
 -'  81  0  ~/holbertonschool-low_level_programming/0x15-file_io/3-cp.c
 -'  1  0  ~/holbertonschool-low_level_programming/0x15-file_io/3-cp.c
 -'  1  1  ~/holbertonschool-low_level_programming/0x15-file_io/2-append_text_to_file.c
@@ -149,6 +151,9 @@
 -'  10  11  ~/holbertonschool-low_level_programming/0x13-more_singly_linked_lists/1-listint_len.c
 
 # History of marks within files (newest to oldest):
+
+> ~/holbertonschool-higher_level_programming/0x00-python-hello_world/3-print_number.py
+	"	3	0
 
 > ~/holbertonschool-low_level_programming/0x15-file_io/3-cp.c
 	"	81	0
@@ -1325,11 +1330,4 @@
 	^	1	2
 	.	1	1
 	+	18	0
-	+	1	1
-
-> ~/holbertonschool-low_level_programming/0x10-variadic_functions/_putchar.c
-	"	1	1
-	^	1	2
-	.	1	1
-	+	13	0
 	+	1	1
