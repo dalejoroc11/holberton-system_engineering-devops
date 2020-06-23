@@ -10,7 +10,6 @@
 trap 'echo "DR"' SIGTERM
 while true
 do
-    echo "To infinity and beyond"
-    sleep 10
-#    trap 'echo "I am invincible!!!"' SIGTERM
+echo "To infinity and beyond"
+sleep 10
 done
