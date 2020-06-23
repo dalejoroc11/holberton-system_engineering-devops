@@ -8,8 +8,7 @@
 #7-highlander process instead of the 
 #4-to_infinity_and_beyond one.
 trap "echo I am invincible!!!" SIGTERM
-while true
-do
+while true; do
 echo "To infinity and beyond"
-sleep 8
+sleep 2
 done
