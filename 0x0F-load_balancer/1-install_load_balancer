@@ -10,6 +10,6 @@ sudo apt-get install -y haproxy
 sudo chmod 764 /etc/haproxy/
 sudo chmod 764 /etc/haproxy/haproxy.cfg
 
-sudo sed -i "$ a frontend Local_Server \n\t bind *:22 \n\t mode http \n\t default_backend My_Web_Servers \n\nbackend My_Web_Servers \n\t mode http \n\t balance roundrobin \n\t server 1232-web-01 35.196.6:22 check \n\t server 1232-web-02 35.237.186.107:22 check \n" /etc/haproxy/haproxy.cfg
+sudo sed -i "$ a frontend Local_Server \n\t bind *:22 \n\t mode http \n\t default_backend My_Web_Servers \n\nbackend My_Web_Servers \n\t mode http \n\t balance roundrobin \n\t server 1232-web-01 34.75.121.100:22 check \n\t server 1232-web-02 35.237.186.107:22 check \n" /etc/haproxy/haproxy.cfg
 
 sudo service haproxy restart
